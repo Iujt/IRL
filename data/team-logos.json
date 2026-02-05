@@ -1,0 +1,52 @@
+[
+  {
+    "id": "l1",
+    "team": "RB Racing",
+    "logo": "assets/img/teams/rbracing.png"
+  },
+  {
+    "id": "l2",
+    "team": "Ferrari",
+    "logo": "assets/img/teams/ferrari.png"
+  },
+  {
+    "id": "l3",
+    "team": "Alpine",
+    "logo": "assets/img/teams/alpine.png"
+  },
+  {
+    "id": "l4",
+    "team": "Haas",
+    "logo": "assets/img/teams/haas.png"
+  },
+  {
+    "id": "l5",
+    "team": "Red Bull",
+    "logo": "assets/img/teams/redbull.png"
+  },
+  {
+    "id": "l6",
+    "team": "Aston Martin",
+    "logo": "assets/img/teams/astonmartin.png"
+  },
+  {
+    "id": "l7",
+    "team": "Mercedes",
+    "logo": "assets/img/teams/mercedes.png"
+  },
+  {
+    "id": "l8",
+    "team": "Williams",
+    "logo": "assets/img/teams/williams.png"
+  },
+  {
+    "id": "l9",
+    "team": "Kick Sauber",
+    "logo": "assets/img/teams/kick.png"
+  },
+  {
+    "id": "l10",
+    "team": "McLaren",
+    "logo": "assets/img/teams/mclaren.png"
+  }
+]

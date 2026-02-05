@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>International Racing League | Admin</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <a class="brand" href="index.html">
+        <div class="brand-badge"><img class="brand-logo" src="assets/img/irl-logo.jpg" alt="International Racing League logo" /></div>
+        <span>International Racing League</span>
+      </a>
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="calendar.html">Calendar</a>
+        <a href="standings.html">Standings</a>
+        <a href="races.html">Race Results</a>
+        <a href="stewards.html">Stewarding</a>
+        <a href="licenses.html">Licenses</a>
+        <a href="stats.html">Statistics</a>
+        <a href="history.html">Season History</a>
+        <a href="archive.html">Archive</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h2 class="section-title">Weekly Race Editor</h2>
+    <p class="race-meta">Create a new round, add sprint/feature results, and download the updated `races.json` file.</p>
+
+    <section class="card">
+      <div class="grid two">
+        <label>Round<input id="race-round" type="number" min="1" placeholder="4" /></label>
+        <label>Race Name<input id="race-name" type="text" placeholder="Coastal Grand Prix" /></label>
+        <label>Date/Time (UTC)<input id="race-date" type="datetime-local" /></label>
+        <label>Track<input id="race-track" type="text" placeholder="Azure Coast Circuit" /></label>
+        <label>Circuit ID<input id="race-circuit" type="text" placeholder="azure" /></label>
+        <label>Weather<input id="race-weather" type="text" placeholder="Sunny" /></label>
+        <label>Safety Cars<input id="race-safety" type="number" min="0" value="0" /></label>
+        <label>Laps<input id="race-laps" type="number" min="1" value="58" /></label>
+      </div>
+      <label style="margin-top:12px; display:block;">
+        <input id="race-has-sprint" type="checkbox" /> Sprint session included
+      </label>
+    </section>
+
+    <section class="card">
+      <h3>Sprint Results</h3>
+      <div id="sprint-results"></div>
+      <button class="button secondary" id="add-sprint-row" type="button">Add Sprint Row</button>
+    </section>
+
+    <section class="card">
+      <h3>Feature Results</h3>
+      <div id="feature-results"></div>
+      <button class="button secondary" id="add-feature-row" type="button">Add Feature Row</button>
+    </section>
+
+    <div class="filter-row" style="margin: 20px 0;">
+      <button class="button" id="preview-update" type="button">Preview Standings Update</button>
+      <button class="button" id="download-races" type="button">Download Updated races.json</button>
+      <span id="weekly-status" class="race-meta"></span>
+    </div>
+
+    <section class="grid two">
+      <div class="card">
+        <h3>Preview Driver Standings</h3>
+        <div id="preview-driver-standings" class="timeline"></div>
+      </div>
+      <div class="card">
+        <h3>Preview Team Standings</h3>
+        <div id="preview-team-standings" class="timeline"></div>
+      </div>
+    </section>
+
+    <h2 class="section-title">Admin Data Editing</h2>
+    <p class="race-meta">This editor loads JSON from the /data folder. Edit, validate, then download and replace the file locally.</p>
+
+    <div class="filter-row">
+      <label for="data-file">Select JSON</label>
+      <select id="data-file">
+        <option value="drivers">drivers.json</option>
+        <option value="teams">teams.json</option>
+        <option value="races">races.json</option>
+        <option value="points">points.json</option>
+        <option value="seasons">seasons.json</option>
+      </select>
+      <button class="button" id="download-json">Download JSON</button>
+    </div>
+
+    <textarea id="json-editor" spellcheck="false"></textarea>
+    <p id="admin-status" class="race-meta"></p>
+  </main>
+
+  <footer class="container">
+    Tip: keep IDs stable so results can be linked across files.
+  </footer>
+
+  <script type="module" src="assets/js/admin.js"></script>
+</body>
+</html>

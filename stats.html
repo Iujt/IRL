@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>International Racing League | Statistics</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <a class="brand" href="index.html">
+        <div class="brand-badge"><img class="brand-logo" src="assets/img/irl-logo.jpg" alt="International Racing League logo" /></div>
+        <span>International Racing League</span>
+      </a>
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="calendar.html">Calendar</a>
+        <a href="standings.html">Standings</a>
+        <a href="races.html">Race Results</a>
+        <a href="stewards.html">Stewarding</a>
+        <a href="licenses.html">Licenses</a>
+        <a href="stats.html">Statistics</a>
+        <a href="history.html">Season History</a>
+        <a href="archive.html">Archive</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h2 class="section-title">Driver Statistics</h2>
+    <div class="filter-row">
+      <label for="driver-filter">Driver</label>
+      <select id="driver-filter"></select>
+    </div>
+
+    <section class="cards">
+      <div class="card stat-card">
+        <h3>Starts</h3>
+        <div class="stat" id="stat-starts">0</div>
+      </div>
+      <div class="card stat-card">
+        <h3>Wins</h3>
+        <div class="stat" id="stat-wins">0</div>
+      </div>
+      <div class="card stat-card">
+        <h3>Podiums</h3>
+        <div class="stat" id="stat-podiums">0</div>
+      </div>
+      <div class="card stat-card">
+        <h3>DNFs</h3>
+        <div class="stat" id="stat-dnfs">0</div>
+      </div>
+      <div class="card stat-card">
+        <h3>Points</h3>
+        <div class="stat" id="stat-points">0</div>
+      </div>
+    </section>
+
+    <div class="chart-card">
+      <canvas id="stats-chart" height="140"></canvas>
+    </div>
+  </main>
+
+  <footer class="container">
+    Stats update automatically from race results JSON.
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script type="module" src="assets/js/stats.js"></script>
+</body>
+</html>

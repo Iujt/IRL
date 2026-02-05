@@ -1,0 +1,88 @@
+{
+  "seasons": [
+    {
+      "id": "s1",
+      "year": 2022,
+      "label": "Season 1 (2022)",
+      "points": {
+        "featurePoints": [25, 18, 15, 12, 10, 8, 6, 4, 2, 1],
+        "sprintPoints": [8, 7, 6, 5, 4, 3, 2, 1],
+        "fastestLapBonus": 1,
+        "fastestLapOnlyIfPoints": true
+      },
+      "rounds": []
+    },
+    {
+      "id": "s2",
+      "year": 2022,
+      "label": "Season 2 (2022)",
+      "points": {
+        "featurePoints": [25, 18, 15, 12, 10, 8, 6, 4, 2, 1],
+        "sprintPoints": [8, 7, 6, 5, 4, 3, 2, 1],
+        "fastestLapBonus": 1,
+        "fastestLapOnlyIfPoints": true
+      },
+      "rounds": []
+    },
+    {
+      "id": "s3",
+      "year": 2023,
+      "label": "Season 3 (2023)",
+      "points": {
+        "featurePoints": [25, 18, 15, 12, 10, 8, 6, 4, 2, 1],
+        "sprintPoints": [8, 7, 6, 5, 4, 3, 2, 1],
+        "fastestLapBonus": 1,
+        "fastestLapOnlyIfPoints": true
+      },
+      "rounds": []
+    },
+    {
+      "id": "s4",
+      "year": 2023,
+      "label": "Season 4 (2023)",
+      "points": {
+        "featurePoints": [25, 18, 15, 12, 10, 8, 6, 4, 2, 1],
+        "sprintPoints": [8, 7, 6, 5, 4, 3, 2, 1],
+        "fastestLapBonus": 1,
+        "fastestLapOnlyIfPoints": true
+      },
+      "rounds": []
+    },
+    {
+      "id": "s5",
+      "year": 2024,
+      "label": "Season 5 (2024)",
+      "points": {
+        "featurePoints": [25, 18, 15, 12, 10, 8, 6, 4, 2, 1],
+        "sprintPoints": [8, 7, 6, 5, 4, 3, 2, 1],
+        "fastestLapBonus": 1,
+        "fastestLapOnlyIfPoints": true
+      },
+      "rounds": []
+    },
+    {
+      "id": "s6",
+      "year": 2025,
+      "label": "Season 6 (2025)",
+      "points": {
+        "featurePoints": [25, 18, 15, 12, 10, 8, 6, 4, 2, 1],
+        "sprintPoints": [8, 7, 6, 5, 4, 3, 2, 1],
+        "fastestLapBonus": 1,
+        "fastestLapOnlyIfPoints": true
+      },
+      "rounds": []
+    },
+    {
+      "id": "s7",
+      "year": 2025,
+      "label": "Season 7 (2025)",
+      "points": {
+        "featurePoints": [25, 18, 15, 12, 10, 8, 6, 4, 2, 1],
+        "sprintPoints": [12, 10, 8, 7, 6, 5, 4, 3, 2, 1],
+        "fastestLapBonus": 1,
+        "fastestLapOnlyIfPoints": true
+      },
+      "rounds": []
+    }
+  ]
+}

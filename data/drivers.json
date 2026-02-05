@@ -1,0 +1,322 @@
+[
+  {
+    "id": "d1",
+    "name": "Aceinpocket",
+    "abbreviation": "ACE",
+    "number": 79,
+    "country": "United States",
+    "color": "#6C98FF",
+    "teamHistory": [
+      {
+        "teamId": "t1",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "usa"
+  },
+  {
+    "id": "d2",
+    "name": "Langy",
+    "abbreviation": "LAN",
+    "number": 69,
+    "country": "Sweden",
+    "color": "#6C98FF",
+    "teamHistory": [
+      {
+        "teamId": "t1",
+        "from": "2024-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "sweden"
+  },
+  {
+    "id": "d3",
+    "name": "Oskar Berggren",
+    "abbreviation": "BER",
+    "number": 8,
+    "country": "Sweden",
+    "color": "#ED1131",
+    "teamHistory": [
+      {
+        "teamId": "t2",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "sweden"
+  },
+  {
+    "id": "d4",
+    "name": "Carmelo",
+    "abbreviation": "CAR",
+    "number": 26,
+    "country": "Italy",
+    "color": "#ED1131",
+    "teamHistory": [
+      {
+        "teamId": "t2",
+        "from": "2024-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "italy"
+  },
+  {
+    "id": "d5",
+    "name": "Pink Booger",
+    "abbreviation": "PNK",
+    "number": 44,
+    "country": "United States",
+    "color": "#00A1E8",
+    "teamHistory": [
+      {
+        "teamId": "t3",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "usa"
+  },
+  {
+    "id": "d6",
+    "name": "Ashley",
+    "abbreviation": "ASH",
+    "number": 21,
+    "country": "Wales",
+    "color": "#00A1E8",
+    "teamHistory": [
+      {
+        "teamId": "t3",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "wales"
+  },
+  {
+    "id": "d7",
+    "name": "Czajnik",
+    "abbreviation": "CZA",
+    "number": 88,
+    "country": "Poland",
+    "color": "#9C9FA2",
+    "teamHistory": [
+      {
+        "teamId": "t4",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "poland"
+  },
+  {
+    "id": "d8",
+    "name": "Commander Cody",
+    "abbreviation": "COD",
+    "number": 2,
+    "country": "Slovakia",
+    "color": "#9C9FA2",
+    "teamHistory": [
+      {
+        "teamId": "t4",
+        "from": "2024-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "slovakia"
+  },
+  {
+    "id": "d9",
+    "name": "Ludovic",
+    "abbreviation": "LUD",
+    "number": 3,
+    "country": "Sweden",
+    "color": "#4781D7",
+    "teamHistory": [
+      {
+        "teamId": "t5",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "sweden"
+  },
+  {
+    "id": "d10",
+    "name": "Tom",
+    "abbreviation": "TOM",
+    "number": 22,
+    "country": "Ireland",
+    "color": "#4781D7",
+    "teamHistory": [
+      {
+        "teamId": "t5",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "ireland"
+  },
+  {
+    "id": "d11",
+    "name": "Jordan",
+    "abbreviation": "JOR",
+    "number": 11,
+    "country": "United States",
+    "color": "#229971",
+    "teamHistory": [
+      {
+        "teamId": "t6",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "usa"
+  },
+  {
+    "id": "d12",
+    "name": "Justin Gonzo",
+    "abbreviation": "GON",
+    "number": 99,
+    "country": "United States",
+    "color": "#229971",
+    "teamHistory": [
+      {
+        "teamId": "t6",
+        "from": "2024-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "usa"
+  },
+  {
+    "id": "d13",
+    "name": "MooseNam",
+    "abbreviation": "MNM",
+    "number": 16,
+    "country": "Namibia",
+    "color": "#00D7B6",
+    "teamHistory": [
+      {
+        "teamId": "t7",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "namibia"
+  },
+  {
+    "id": "d14",
+    "name": "Twiggy",
+    "abbreviation": "TWI",
+    "number": 91,
+    "country": "United Kingdom",
+    "color": "#00D7B6",
+    "teamHistory": [
+      {
+        "teamId": "t7",
+        "from": "2024-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "uk"
+  },
+  {
+    "id": "d15",
+    "name": "Pimentel",
+    "abbreviation": "PIM",
+    "number": 6,
+    "country": "Colombia",
+    "color": "#1868DB",
+    "teamHistory": [
+      {
+        "teamId": "t8",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "colombia"
+  },
+  {
+    "id": "d16",
+    "name": "Daniel",
+    "abbreviation": "DAN",
+    "number": 28,
+    "country": "Ireland",
+    "color": "#1868DB",
+    "teamHistory": [
+      {
+        "teamId": "t8",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "ireland"
+  },
+  {
+    "id": "d17",
+    "name": "StandingCart",
+    "abbreviation": "SCT",
+    "number": 56,
+    "country": "United Kingdom",
+    "color": "#01C00E",
+    "teamHistory": [
+      {
+        "teamId": "t9",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "uk"
+  },
+  {
+    "id": "d18",
+    "name": "Airbus",
+    "abbreviation": "AIR",
+    "number": 18,
+    "country": "United States",
+    "color": "#01C00E",
+    "teamHistory": [
+      {
+        "teamId": "t9",
+        "from": "2024-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "usa"
+  },
+  {
+    "id": "d19",
+    "name": "Topuente",
+    "abbreviation": "TOP",
+    "number": 14,
+    "country": "Chile",
+    "color": "#F47600",
+    "teamHistory": [
+      {
+        "teamId": "t10",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "chile"
+  },
+  {
+    "id": "d20",
+    "name": "Iujt",
+    "abbreviation": "Ijt",
+    "number": 12,
+    "country": "Colombia",
+    "color": "#F47600",
+    "teamHistory": [
+      {
+        "teamId": "t10",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "colombia"
+  }
+]
