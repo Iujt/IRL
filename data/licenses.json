@@ -45,14 +45,14 @@
     "driverId": "d7",
     "driver": "",
     "lp": 20,
-    "ddwp": 1,
+    "ddwp": 0,
     "awp": 0
   },
   {
     "driverId": "d8",
     "driver": "",
     "lp": 20,
-    "ddwp": 0,
+    "ddwp": 1,
     "awp": 0
   },
   {
