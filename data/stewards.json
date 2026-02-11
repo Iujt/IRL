@@ -27,6 +27,12 @@
         "incident": "271 B - Lap 2",
         "penalty": null,
         "notes": "Avoidable contact, but not unreasonable battling. Racing Incident."
+      },
+      {
+        "driver": "Carmelo",
+        "incident": "Other Penalties",
+        "penalty": "1LP Deduction",
+        "notes": "Failing to use required settings. (Full track map)"
       }
     ]
   },
