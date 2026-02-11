@@ -1,8 +1,0 @@
-{
-  "season": 8,
-  "name": "Season 8 (2026)",
-  "featurePoints": [25, 20, 16, 13, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1],
-  "sprintPoints": [12, 10, 8, 7, 6, 5, 4, 3, 2, 1],
-  "fastestLapBonus": 1,
-  "fastestLapOnlyIfPoints": true
-}
