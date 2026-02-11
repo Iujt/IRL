@@ -742,7 +742,7 @@
             "time": "+58.993",
             "status": "Finished",
             "gridPosition": 6,
-            "penalties": [+5 seconds],
+            "penalties": [+5],
             "fastestLap": false
           },
           {
@@ -795,6 +795,7 @@
             "penalties": [],
             "fastestLap": false
           }
+        ]
       }
     }
   },
