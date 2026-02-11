@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="112" viewBox="0 0 160 112">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d1322" />
+      <stop offset="1" stop-color="#0b0e13" />
+    </linearGradient>
+  </defs>
+  <rect width="160" height="112" rx="12" fill="url(#g)" />
+  <path d="M30 30 H130 V80 H30 Z" fill="none" stroke="#ff7a00" stroke-width="6" stroke-linecap="round" />
+  <path d="M55 55 H105 V65 H55 Z" fill="none" stroke="#ff7a00" stroke-width="6" stroke-linecap="round" />
+  <text x="12" y="20" font-family="Arial" font-size="12" fill="#e7e9ee">Metro</text>
+</svg>

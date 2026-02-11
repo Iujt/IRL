@@ -1,0 +1,16 @@
+{
+  "stats": [
+    {
+      "driverId": "ace",
+      "wins": 0,
+      "sprintWins": 0,
+      "podiums": 0,
+      "wdcAverageFinish": 0,
+      "fastestLaps": 0,
+      "sickDriftsInJapan": 0,
+      "careerPoints": 0,
+      "dnfs": 0,
+      "racesAttended": 0
+    }
+  ]
+}

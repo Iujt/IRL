@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>International Racing League | Home</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <a class="brand" href="index.html">
+        <div class="brand-badge"><img class="brand-logo" src="assets/img/irl-logo.jpg" alt="International Racing League logo" /></div>
+        <span>International Racing League</span>
+      </a>
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="calendar.html">Calendar</a>
+        <a href="standings.html">Standings</a>
+        <a href="races.html">Race Results</a>
+        <a href="stewards.html">Stewarding</a>
+        <a href="licenses.html">Licenses</a>
+        <a href="stats.html">Statistics</a>
+        <a href="history.html">Season History</a>
+        <a href="archive.html">Archive</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div class="hero-card">
+        <h1>Precision. Pace. Prestige.</h1>
+        <p>Official International Racing League dashboard for results, standings, and season insights.</p>
+      </div>
+      <div class="hero-card">
+        <h3 id="next-race-name">Next Race</h3>
+        <p id="next-race-date">Loading schedule...</p>
+        <div class="countdown">
+          <div class="slot"><div class="value" data-countdown="days">0</div><div>Days</div></div>
+          <div class="slot"><div class="value" data-countdown="hours">0</div><div>Hours</div></div>
+          <div class="slot"><div class="value" data-countdown="minutes">0</div><div>Mins</div></div>
+          <div class="slot"><div class="value" data-countdown="seconds">0</div><div>Secs</div></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="grid two">
+      <div class="card">
+        <h3>Quick Standings</h3>
+        <div id="standings-preview" class="timeline"></div>
+      </div>
+      <div class="card" id="latest-race">
+        <h3>Latest Race</h3>
+        <p class="race-meta">Loading results...</p>
+      </div>
+    </section>
+
+    <section class="cards">
+      <div class="card">
+        <h3>Season Format</h3>
+        <p>14 Rounds • Dynamic Weather • Live Stewarding</p>
+      </div>
+      <div class="card">
+        <h3>Join Discord</h3>
+        <p><a class="button" href="https://discord.gg/j3UKeWmh9R" target="_blank" rel="noopener">Join the IRL Discord</a></p>
+      </div>
+          </section>
+  </main>
+
+  <footer class="container">
+    International Racing League • Private championship dashboard
+  </footer>
+
+  <script type="module" src="assets/js/home.js"></script>
+</body>
+</html>

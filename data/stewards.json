@@ -1,0 +1,77 @@
+[
+  {
+    "round": 4,
+    "race": "Saudi Arabia",
+    "date": "2026-02-01",
+    "decisions": [
+      {
+        "driver": "StandingCart",
+        "incident": "266 - Lap 1",
+        "penalty": "+3s, 3 LP deduction",
+        "notes": "Causing an incident resulting in minor damage of another driver. No position changes."
+      },
+      {
+        "driver": "Gonzo",
+        "incident": "267 - Lap 22",
+        "penalty": "+3s, 3 LP deduction",
+        "notes": "Causing an incident resulting in minor damage of another driver. No position changes."
+      }
+    ]
+  },
+  {
+    "round": 2,
+    "race": "Qatar",
+    "date": "2026-01-18",
+    "decisions": [
+      {
+        "driver": "Pimentel",
+        "incident": "262 - Lap 1",
+        "penalty": "+3s",
+        "notes": "Causing an incident resulting in minor loss of time of another driver."
+      },
+      {
+        "driver": "MooseNam",
+        "incident": "263 - Lap 1",
+        "penalty": null,
+        "notes": "Incident voided due to being reported twice."
+      },
+      {
+        "driver": "Daniel",
+        "incident": "264 - Lap 8",
+        "penalty": "2 DDWP, +3s, 1 LP deduction, 3 LP deduction",
+        "notes": null
+      },
+      {
+        "driver": "MooseNam",
+        "incident": "265 - Lap 1",
+        "penalty": "+3s",
+        "notes": "Causing an incident resulting in minor loss of time of another driver"
+      }
+    ]
+  },
+  {
+    "round": 1,
+    "race": "Japan",
+    "date": "2026-01-11",
+    "decisions": [
+      {
+        "driver": "Jordan",
+        "incident": "260A - Lap 1",
+        "penalty": null,
+        "notes": "Racing Incident."
+      },
+      {
+        "driver": "Ashley",
+        "incident": "260B - Lap 7",
+        "penalty": null,
+        "notes": "Racing Incident."
+      },
+      {
+        "driver": "Commander Cody",
+        "incident": "261 - Lap 25",
+        "penalty": "+10s and 5 LP deduction",
+        "notes": "This penalty was appealed and reduced to 1 DDWP."
+      }
+    ]
+  }
+]

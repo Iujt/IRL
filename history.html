@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>International Racing League | Season History</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <a class="brand" href="index.html">
+        <div class="brand-badge"><img class="brand-logo" src="assets/img/irl-logo.jpg" alt="International Racing League logo" /></div>
+        <span>International Racing League</span>
+      </a>
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="calendar.html">Calendar</a>
+        <a href="standings.html">Standings</a>
+        <a href="races.html">Race Results</a>
+        <a href="stewards.html">Stewarding</a>
+        <a href="licenses.html">Licenses</a>
+        <a href="stats.html">Statistics</a>
+        <a href="history.html">Season History</a>
+        <a href="archive.html">Archive</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h2 class="section-title">League History</h2>
+    <div class="filter-row">
+      <label for="history-season">Season</label>
+      <select id="history-season"></select>
+    </div>
+
+    <div id="history-rounds" class="grid" style="margin-top: 16px;"></div>
+  </main>
+
+  <footer class="container">
+    Historical rounds are loaded from `data/league-history.json`.
+  </footer>
+
+  <script type="module" src="assets/js/history.js"></script>
+</body>
+</html>

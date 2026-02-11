@@ -1,0 +1,823 @@
+[
+  {
+    "id": "s8r1",
+    "round": 1,
+    "name": "Japan",
+    "date": "2026-01-11T20:00:00Z",
+    "track": "Suzuka Circuit",
+    "circuitId": "suzuka",
+    "weather": "Clear",
+    "status": "completed",
+    "sessions": {
+      "feature": {
+        "name": "Feature Race",
+        "results": [
+          {
+            "position": 1,
+            "driverId": "topuente",
+            "teamId": "t10",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 3,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 2,
+            "driverId": "twiggy",
+            "teamId": "t7",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 2,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 3,
+            "driverId": "pimentel",
+            "teamId": "t8",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 1,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 4,
+            "driverId": "tom",
+            "teamId": "t5",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 6,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 5,
+            "driverId": "ashley",
+            "teamId": "t3",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 8,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 6,
+            "driverId": "moose",
+            "teamId": "t7",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 9,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 7,
+            "driverId": "daniel",
+            "teamId": "t8",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 10,
+            "penalties": [],
+            "fastestLap": true
+          },
+          {
+            "position": 8,
+            "driverId": "pinkbooger",
+            "teamId": "t3",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 5,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 9,
+            "driverId": "czajnik",
+            "teamId": "t4",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 11,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 10,
+            "driverId": "carmelo",
+            "teamId": "t2",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 4,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 11,
+            "driverId": "cody",
+            "teamId": "t4",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 13,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 12,
+            "driverId": "ace",
+            "teamId": "t1",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 14,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 13,
+            "driverId": "jordan",
+            "teamId": "t6",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 12,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 14,
+            "driverId": "gonzo",
+            "teamId": "t6",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 7,
+            "penalties": [],
+            "fastestLap": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "s8r2",
+    "round": 2,
+    "name": "Qatar",
+    "date": "2026-01-18T20:00:00Z",
+    "track": "Lusail International Circuit",
+    "circuitId": "lusail",
+    "weather": "Clear",
+    "status": "completed",
+    "sessions": {
+      "feature": {
+        "name": "Feature Race",
+        "results": [
+          {
+            "position": 1,
+            "driverId": "twiggy",
+            "teamId": "t7",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 1,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 2,
+            "driverId": "tom",
+            "teamId": "t5",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 3,
+            "penalties": [],
+            "fastestLap": true
+          },
+          {
+            "position": 3,
+            "driverId": "pinkbooger",
+            "teamId": "t3",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 2,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 4,
+            "driverId": "pimentel",
+            "teamId": "t8",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 4,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 5,
+            "driverId": "moose",
+            "teamId": "t7",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 5,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 6,
+            "driverId": "daniel",
+            "teamId": "t8",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 6,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 7,
+            "driverId": "czajnik",
+            "teamId": "t4",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 7,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 8,
+            "driverId": "carmelo",
+            "teamId": "t2",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 11,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 9,
+            "driverId": "ashley",
+            "teamId": "t3",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 8,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 10,
+            "driverId": "cody",
+            "teamId": "t4",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 9,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 11,
+            "driverId": "gonzo",
+            "teamId": "t6",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 10,
+            "penalties": [],
+            "fastestLap": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "s8r3",
+    "round": 3,
+    "name": "Bahrain",
+    "date": "2026-01-25T20:00:00Z",
+    "track": "Bahrain International Circuit",
+    "circuitId": "bahrain",
+    "weather": "Clear",
+    "status": "completed",
+    "sessions": {
+      "sprint": {
+        "name": "Sprint",
+        "results": [
+          {
+            "position": 1,
+            "driverId": "twiggy",
+            "teamId": "t7",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 1,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 2,
+            "driverId": "ashley",
+            "teamId": "t3",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 3,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 3,
+            "driverId": "pimentel",
+            "teamId": "t8",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 5,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 4,
+            "driverId": "tom",
+            "teamId": "t5",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 4,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 5,
+            "driverId": "jordan",
+            "teamId": "t6",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 6,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 6,
+            "driverId": "moose",
+            "teamId": "t7",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 2,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 7,
+            "driverId": "daniel",
+            "teamId": "t8",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 8,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 8,
+            "driverId": "carmelo",
+            "teamId": "t2",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 7,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 9,
+            "driverId": "cody",
+            "teamId": "t4",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 9,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 10,
+            "driverId": "czajnik",
+            "teamId": "t4",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 10,
+            "penalties": [],
+            "fastestLap": false
+          }
+        ]
+      },
+      "feature": {
+        "name": "Feature Race",
+        "results": [
+          {
+            "position": 1,
+            "driverId": "twiggy",
+            "teamId": "t7",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 1,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 2,
+            "driverId": "ashley",
+            "teamId": "t3",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 2,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 3,
+            "driverId": "jordan",
+            "teamId": "t6",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 5,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 4,
+            "driverId": "moose",
+            "teamId": "t7",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 6,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 5,
+            "driverId": "pimentel",
+            "teamId": "t8",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 3,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 6,
+            "driverId": "czajnik",
+            "teamId": "t4",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 10,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 7,
+            "driverId": "cody",
+            "teamId": "t4",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 9,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 8,
+            "driverId": "tom",
+            "teamId": "t5",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 4,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 9,
+            "driverId": "carmelo",
+            "teamId": "t2",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 8,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 10,
+            "driverId": "daniel",
+            "teamId": "t8",
+            "time": null,
+            "status": "Finished",
+            "gridPosition": 7,
+            "penalties": [],
+            "fastestLap": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "s8r4",
+    "round": 4,
+    "name": "Saudi Arabia",
+    "date": "2026-02-01T20:00:00Z",
+    "track": "Jeddah Corniche Circuit",
+    "circuitId": "jeddah",
+    "weather": "Clear",
+    "status": "completed",
+    "sessions": {
+      "feature": {
+        "name": "Feature Race",
+        "results": [
+          {
+            "position": 1,
+            "driverId": "oskar",
+            "teamId": "t2",
+            "time": "41:55",
+            "status": "Finished",
+            "gridPosition": 1,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 2,
+            "driverId": "twiggy",
+            "teamId": "t7",
+            "time": "+1.708",
+            "status": "Finished",
+            "gridPosition": 2,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 3,
+            "driverId": "moose",
+            "teamId": "t7",
+            "time": "+7.579",
+            "status": "Finished",
+            "gridPosition": 4,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 4,
+            "driverId": "iujt",
+            "teamId": "t10",
+            "time": "+8.383",
+            "status": "Finished",
+            "gridPosition": 10,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 5,
+            "driverId": "jordan",
+            "teamId": "t6",
+            "time": "10.133",
+            "status": "Finished",
+            "gridPosition": 5,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 6,
+            "driverId": "topuente",
+            "teamId": "t10",
+            "time": "+11.056",
+            "status": "Finished",
+            "gridPosition": 3,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 7,
+            "driverId": "tom",
+            "teamId": "t5",
+            "time": "+13.271",
+            "status": "Finished",
+            "gridPosition": 11,
+            "penalties": [],
+            "fastestLap": true
+          },
+          {
+            "position": 8,
+            "driverId": "standingcart",
+            "teamId": "t9",
+            "time": "+15.494",
+            "status": "Finished",
+            "gridPosition": 6,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 9,
+            "driverId": "carmelo",
+            "teamId": "t2",
+            "time": "+17.236",
+            "status": "Finished",
+            "gridPosition": 9,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 10,
+            "driverId": "pimentel",
+            "teamId": "t8",
+            "time": "+31.534",
+            "status": "Finished",
+            "gridPosition": 7,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 11,
+            "driverId": "langy",
+            "teamId": "t1",
+            "time": "+51.068",
+            "status": "Finished",
+            "gridPosition": 13,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 12,
+            "driverId": "daniel",
+            "teamId": "t8",
+            "time": "+1 lap",
+            "status": "Finished",
+            "gridPosition": 8,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 13,
+            "driverId": "gonzo",
+            "teamId": "t6",
+            "time": "+1 lap",
+            "status": "Finished",
+            "gridPosition": 12,
+            "penalties": [],
+            "fastestLap": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "s8r5",
+    "round": 5,
+    "name": "United Kingdom",
+    "date": "2026-02-08T20:00:00Z",
+    "track": "Silverstone Circuit",
+    "circuitId": "silverstone",
+    "weather": null,
+    "status": "upcoming",
+    "sessions": {
+      "feature": {
+        "name": "Feature Race",
+        "results": []
+      }
+    }
+  },
+  {
+    "id": "s8r6",
+    "round": 6,
+    "name": "Monaco",
+    "date": "2026-02-15T20:00:00Z",
+    "track": "Circuit de Monaco",
+    "circuitId": "monaco",
+    "weather": null,
+    "status": "upcoming",
+    "sessions": {
+      "sprint": {
+        "name": "Sprint",
+        "results": []
+      },
+      "feature": {
+        "name": "Feature Race",
+        "results": []
+      }
+    }
+  },
+  {
+    "id": "s8r7",
+    "round": 7,
+    "name": "Spain",
+    "date": "2026-02-22T20:00:00Z",
+    "track": "Circuit de Barcelona-Catalunya",
+    "circuitId": "barcelona",
+    "weather": null,
+    "status": "upcoming",
+    "sessions": {
+      "feature": {
+        "name": "Feature Race",
+        "results": []
+      }
+    }
+  },
+  {
+    "id": "s8r8",
+    "round": 8,
+    "name": "Netherlands",
+    "date": "2026-03-01T20:00:00Z",
+    "track": "Circuit Zandvoort",
+    "circuitId": "zandvoort",
+    "weather": null,
+    "status": "upcoming",
+    "sessions": {
+      "feature": {
+        "name": "Feature Race",
+        "results": []
+      }
+    }
+  },
+  {
+    "id": "s8r9",
+    "round": 9,
+    "name": "Belgium",
+    "date": "2026-03-08T20:00:00Z",
+    "track": "Circuit de Spa-Francorchamps",
+    "circuitId": "spa",
+    "weather": null,
+    "status": "upcoming",
+    "sessions": {
+      "sprint": {
+        "name": "Sprint",
+        "results": []
+      },
+      "feature": {
+        "name": "Feature Race",
+        "results": []
+      }
+    }
+  },
+  {
+    "id": "s8r10",
+    "round": 10,
+    "name": "Italy",
+    "date": "2026-03-015T20:00:00Z",
+    "track": "Autodromo Nazionale Monza",
+    "circuitId": "monza",
+    "weather": null,
+    "status": "upcoming",
+    "sessions": {
+      "feature": {
+        "name": "Feature Race",
+        "results": []
+      }
+    }
+  },
+  {
+    "id": "s8r11",
+    "round": 11,
+    "name": "Austria",
+    "date": "2026-03-22T20:00:00Z",
+    "track": "Red Bull Ring",
+    "circuitId": "austria",
+    "weather": null,
+    "status": "upcoming",
+    "sessions": {
+      "feature": {
+        "name": "Feature Race",
+        "results": []
+      }
+    }
+  },
+  {
+    "id": "s8r12",
+    "round": 12,
+    "name": "Canada",
+    "date": "2026-03-29T20:00:00Z",
+    "track": "Circuit Gilles Villenueve",
+    "circuitId": "canada",
+    "weather": null,
+    "status": "upcoming",
+    "sessions": {
+      "feature": {
+        "name": "Feature Race",
+        "results": []
+      }
+    }
+  },
+  {
+    "id": "s8r13",
+    "round": 13,
+    "name": "Brazil",
+    "date": "2026-04-05T20:00:00Z",
+    "track": "Autodromo Jose Carlos Pace",
+    "circuitId": "interlagos",
+    "weather": null,
+    "status": "upcoming",
+    "sessions": {
+      "feature": {
+        "name": "Feature Race",
+        "results": []
+      }
+    }
+  },
+  {
+    "id": "s8r14",
+    "round": 14,
+    "name": "Las Vegas",
+    "date": "2026-04-12T20:00:00Z",
+    "track": "Las Vegas Strip Circuit",
+    "circuitId": "lasvegas",
+    "weather": null,
+    "status": "upcoming",
+    "sessions": {
+      "feature": {
+        "name": "Feature Race",
+        "results": []
+      }
+    }
+  }
+]

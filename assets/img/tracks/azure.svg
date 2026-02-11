@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="112" viewBox="0 0 160 112">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1c2d" />
+      <stop offset="1" stop-color="#0b0e13" />
+    </linearGradient>
+  </defs>
+  <rect width="160" height="112" rx="12" fill="url(#g)" />
+  <path d="M30 70 C50 30, 100 30, 120 70 C130 90, 110 100, 80 95 C50 90, 30 85, 30 70" fill="none" stroke="#3ddc97" stroke-width="6" stroke-linecap="round" />
+  <text x="12" y="20" font-family="Arial" font-size="12" fill="#e7e9ee">Azure Coast</text>
+</svg>

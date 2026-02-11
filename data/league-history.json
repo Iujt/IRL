@@ -1,0 +1,35 @@
+{
+  "seasons": [
+    {
+      "season": "2022",
+      "rounds": [
+        {
+          "round": 1,
+          "circuit": "Bahrain International Circuit",
+          "circuitId": "bahrain",
+          "fastestLap": "ace",
+          "results": [
+            {
+              "position": 1,
+              "driverId": "ace",
+              "status": "Finished",
+              "fastestLap": false
+            },
+            {
+              "position": 2,
+              "driverId": "oskar",
+              "status": "Finished",
+              "fastestLap": true
+            },
+            {
+              "position": 3,
+              "driverId": "tom",
+              "status": "Finished",
+              "fastestLap": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

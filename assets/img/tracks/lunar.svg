@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="112" viewBox="0 0 160 112">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161826" />
+      <stop offset="1" stop-color="#0b0e13" />
+    </linearGradient>
+  </defs>
+  <rect width="160" height="112" rx="12" fill="url(#g)" />
+  <path d="M35 70 C35 40, 70 25, 95 25 C120 25, 135 45, 125 70 C115 95, 80 95, 60 85" fill="none" stroke="#8a9bff" stroke-width="6" stroke-linecap="round" />
+  <text x="12" y="20" font-family="Arial" font-size="12" fill="#e7e9ee">Lunar Dunes</text>
+</svg>

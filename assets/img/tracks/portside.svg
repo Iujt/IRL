@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="112" viewBox="0 0 160 112">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1a2b" />
+      <stop offset="1" stop-color="#0b0e13" />
+    </linearGradient>
+  </defs>
+  <rect width="160" height="112" rx="12" fill="url(#g)" />
+  <path d="M30 30 H110 C125 30, 130 40, 120 55 L95 85 C85 98, 60 98, 50 83 L25 55 C18 45, 20 30, 30 30" fill="none" stroke="#66d9ef" stroke-width="6" stroke-linecap="round" />
+  <text x="12" y="20" font-family="Arial" font-size="12" fill="#e7e9ee">Portside</text>
+</svg>

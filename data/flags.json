@@ -1,0 +1,187 @@
+[
+  {
+    "id": "slovakia",
+    "country": "Slovakia",
+    "image": "assets/img/flags/slovakia.jpg"
+  },
+  {
+    "id": "wales",
+    "country": "Wales",
+    "image": "assets/img/flags/wales.jpg"
+  },
+  {
+    "id": "australia",
+    "country": "Australia",
+    "image": "assets/img/flags/australia.png"
+  },
+  {
+    "id": "austria",
+    "country": "Austria",
+    "image": "assets/img/flags/austria.png"
+  },
+  {
+    "id": "azerbaijan",
+    "country": "Azerbaijan",
+    "image": "assets/img/flags/azerbaijan.png"
+  },
+  {
+    "id": "bahrain",
+    "country": "Bahrain",
+    "image": "assets/img/flags/bahrain.png"
+  },
+  {
+    "id": "belgium",
+    "country": "Belgium",
+    "image": "assets/img/flags/belgium.png"
+  },
+  {
+    "id": "brazil",
+    "country": "Brazil",
+    "image": "assets/img/flags/brazil.png"
+  },
+  {
+    "id": "canada",
+    "country": "Canada",
+    "image": "assets/img/flags/canada.png"
+  },
+  {
+    "id": "chile",
+    "country": "Chile",
+    "image": "assets/img/flags/chile.png"
+  },
+  {
+    "id": "china",
+    "country": "China",
+    "image": "assets/img/flags/china.png"
+  },
+  {
+    "id": "colombia",
+    "country": "Colombia",
+    "image": "assets/img/flags/colombiaflag.png"
+  },
+  {
+    "id": "england",
+    "country": "England",
+    "image": "assets/img/flags/england.png"
+  },
+  {
+    "id": "france",
+    "country": "France",
+    "image": "assets/img/flags/france.png"
+  },
+  {
+    "id": "germany",
+    "country": "Germany",
+    "image": "assets/img/flags/germany.png"
+  },
+  {
+      "id": "hungary",
+      "country": "Hungary",
+      "image": "assets/img/flags/hungary.png"
+  },
+  {
+      "id": "ireland",
+      "country": "Ireland",
+      "image": "assets/img/flags/ireland.png"
+  },
+  {
+      "id": "italy",
+      "country": "Italy",
+      "image": "assets/img/flags/italy.png"
+  },
+  {
+      "id": "japan",
+      "country": "Japan",
+      "image": "assets/img/flags/japan.png"
+  },
+  {
+      "id": "mexico",
+      "country": "Mexico",
+      "image": "assets/img/flags/mexico.png"
+  },
+  {
+      "id": "monaco",
+      "country": "Monaco",
+      "image": "assets/img/flags/monaco.png"
+  },
+  {
+      "id": "netherlands",
+      "country": "Netherlands",
+      "image": "assets/img/flags/netherlands.png"
+  },
+  {
+      "id": "philippines",
+      "country": "Philippines",
+      "image": "assets/img/flags/philippines.png"
+  },
+  {
+      "id": "poland",
+      "country": "Poland",
+      "image": "assets/img/flags/poland.png"
+  },
+  {
+      "id": "portugal",
+      "country": "Portugal",
+      "image": "assets/img/flags/portugal.png"
+  },
+  {
+      "id": "qatar",
+      "country": "Qatar",
+      "image": "assets/img/flags/qatar.png"
+  },
+  {
+      "id": "saudiarabia",
+      "country": "Saudi Arabia",
+      "image": "assets/img/flags/saudiarabia.png"
+  },
+  {
+      "id": "scotland",
+      "country": "Scotland",
+      "image": "assets/img/flags/scotland.png"
+  },
+  {
+      "id": "singapore",
+      "country": "Singapore",
+      "image": "assets/img/flags/singapore.png"
+  },
+  {
+      "id": "southafrica",
+      "country": "South Africa",
+      "image": "assets/img/flags/southafrica.png"
+  },
+  {
+      "id": "spain",
+      "country": "Spain",
+      "image": "assets/img/flags/spain.png"
+  },
+  {
+      "id": "sweden",
+      "country": "Sweden",
+      "image": "assets/img/flags/sweden.png"
+  },
+  {
+      "id": "switzerland",
+      "country": "Switzerland",
+      "image": "assets/img/flags/switzerland.png"
+  },
+  {
+      "id": "uae",
+      "country": "United Arab Emirates",
+      "image": "assets/img/flags/uae.png"
+  },
+  {
+      "id": "uk",
+      "country": "United Kingdom",
+      "image": "assets/img/flags/united-kingdom.png"
+  },
+  {
+      "id": "usa",
+      "country": "United States",
+      "image": "assets/img/flags/usa.png"
+  },
+  {
+      "id": "namibia",
+      "country": "Namibia",
+      "image": "assets/img/flags/namibia.jpg.webp"
+  }
+]
