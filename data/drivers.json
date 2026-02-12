@@ -320,13 +320,473 @@
     "flagId": "colombia"
   },
   {
+    "id": "patrone",
+    "name": "El Patrone",
+    "abbreviation": "PAT",
+    "number": null,
+    "country": "Croatia",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": null
+  },
+  {
+    "id": "genoli",
+    "name": "Genoli",
+    "abbreviation": "GEN",
+    "number": null,
+    "country": "Switzerland",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "switzerland"
+  },
+  {
+    "id": "poodan",
+    "name": "Poodan",
+    "abbreviation": "POD",
+    "number": null,
+    "country": "United Kingdom",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "uk"
+  },
+  {
+    "id": "bxmo",
+    "name": "Bxmo",
+    "abbreviation": "BXM",
+    "number": null,
+    "country": "United States",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "usa"
+  },
+  {
+    "id": "shelby",
+    "name": "Shelby",
+    "abbreviation": "SHL",
+    "number": null,
+    "country": "Denmark",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": null
+  },
+  {
+    "id": "mark",
+    "name": "Mark",
+    "abbreviation": "MRK",
+    "number": null,
+    "country": "Ireland",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "ireland"
+  },
+  {
+    "id": "downey",
+    "name": "Downey",
+    "abbreviation": "DOW",
+    "number": null,
+    "country": "Ireland",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "ireland"
+  },
+  {
+    "id": "aaron",
+    "name": "Aaron",
+    "abbreviation": "AGA",
+    "number": null,
+    "country": "United States",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "usa"
+  },
+  {
+    "id": "pigeon",
+    "name": "Pigeon",
+    "abbreviation": "PIG",
+    "number": null,
+    "country": "Scotland",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "scotland"
+  },
+  {
+    "id": "james",
+    "name": "Ayrton James",
+    "abbreviation": "JAM",
+    "number": null,
+    "country": "United Kingdom",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "uk"
+  },
+  {
+    "id": "walrus",
+    "name": "Walrus",
+    "abbreviation": "WAL",
+    "number": null,
+    "country": "Argentina",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "uk"
+  },
+  {
+    "id": "gjacko",
+    "name": "GJacko",
+    "abbreviation": "GJK",
+    "number": null,
+    "country": "United Kingdom",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "uk"
+  },
+  {
+    "id": "roadrunner",
+    "name": "Road Runner",
+    "abbreviation": "RRN",
+    "number": null,
+    "country": "Croatia",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": null
+  },
+  {
+    "id": "craig",
+    "name": "Craig",
+    "abbreviation": "CRA",
+    "number": null,
+    "country": "Ireland",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "ireland"
+  },
+  {
+    "id": "dom",
+    "name": "Dom",
+    "abbreviation": "DOM",
+    "number": null,
+    "country": "Demnark",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": null
+  },
+  {
+    "id": "leec",
+    "name": "Lee Craig",
+    "abbreviation": "LEE",
+    "number": null,
+    "country": "Ireland",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "ireland"
+  },
+  {
+    "id": "baz",
+    "name": "Baz",
+    "abbreviation": "BAZ",
+    "number": null,
+    "country": "Ireland",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "ireland"
+  },
+  {
+    "id": "ellite",
+    "name": "Ellite",
+    "abbreviation": "ELL",
+    "number": null,
+    "country": "Ireland",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "ireland"
+  },
+  {
     "id": "mitch",
     "name": "Mitch",
     "abbreviation": "MIT",
     "number": null,
-    "country": "uk",
+    "country": "United Kingdom",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "uk"
+  },
+  {
+    "id": "crazygoofy",
+    "name": "Crazy Goofy",
+    "abbreviation": "CRZ",
+    "number": null,
+    "country": "Belgium",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "belgium"
+  },
+  {
+    "id": "seddon",
+    "name": "Jack Seddon",
+    "abbreviation": "SED",
+    "number": null,
+    "country": "United Kingdom",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "uk"
+  },
+  {
+    "id": "neenie",
+    "name": "NeenieKart",
+    "abbreviation": "NEE",
+    "number": null,
+    "country": "United Kingdom",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "uk"
+  },
+  {
+    "id": "ayman",
+    "name": "Ayman",
+    "abbreviation": "AYM",
+    "number": null,
+    "country": "Morrocco",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": null
+  },
+  {
+    "id": "govie",
+    "name": "Govie Govan",
+    "abbreviation": "GOV",
+    "number": null,
+    "country": "Ireland",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "ireland"
+  },
+  {
+    "id": "loaiza",
+    "name": "Loaiza",
+    "abbreviation": "LOA",
+    "number": null,
+    "country": "Colombia",
     "color": "#FFFFFF",
     "teamHistory": null,
     "flagId": "colombia"
+  },
+  {
+    "id": "ferp",
+    "name": "Ferp",
+    "abbreviation": "FER",
+    "number": null,
+    "country": "Colombia",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "colombia"
+  },
+  {
+    "id": "wazah",
+    "name": "Wazah",
+    "abbreviation": "WAZ",
+    "number": null,
+    "country": "The Netherlands",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "netherlands"
+  },
+  {
+    "id": "bggm",
+    "name": "BGGM",
+    "abbreviation": "BGG",
+    "number": null,
+    "country": "Colombia",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "colombia"
+  },
+  {
+    "id": "dajer",
+    "name": "Dajer",
+    "abbreviation": "DAJ",
+    "number": null,
+    "country": "Colombia",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "colombia"
+  },
+  {
+    "id": "charlie",
+    "name": "Charlie",
+    "abbreviation": "CHA",
+    "number": null,
+    "country": "United Kingdom",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "uk"
+  },
+  {
+    "id": "apeldoorn",
+    "name": "Apeldoorn",
+    "abbreviation": "APL",
+    "number": null,
+    "country": "The Netherlands",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "netherlands"
+  },
+  {
+    "id": "scorito",
+    "name": "Scorito",
+    "abbreviation": "SCO",
+    "number": null,
+    "country": "Belgium",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "belgium"
+  },
+  {
+    "id": "milan",
+    "name": "Milan Massimo",
+    "abbreviation": "MIL",
+    "number": null,
+    "country": "Italy",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "italy"
+  },
+  {
+    "id": "steven",
+    "name": "Steven",
+    "abbreviation": "STE",
+    "number": null,
+    "country": "France",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "france"
+  },
+  {
+    "id": "jeo",
+    "name": "JEO",
+    "abbreviation": "JEO",
+    "number": null,
+    "country": "The Philippines",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "philippines"
+  },
+  {
+    "id": "lvkytas",
+    "name": "Lvkytas",
+    "abbreviation": "LVK",
+    "number": null,
+    "country": "Chile",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "chile"
+  },
+  {
+    "id": "vader",
+    "name": "Lord Vader",
+    "abbreviation": "VAD",
+    "number": null,
+    "country": "United Kingdom",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "uk"
+  },
+  {
+    "id": "hafronix",
+    "name": "Hafronix",
+    "abbreviation": "HAF",
+    "number": null,
+    "country": "Argentina",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": null
+  },
+  {
+    "id": "ironkid",
+    "name": "IronKid",
+    "abbreviation": "KID",
+    "number": null,
+    "country": "Greece",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": null
+  },
+  {
+    "id": "dbk",
+    "name": "DBK",
+    "abbreviation": "DBK",
+    "number": null,
+    "country": "Romania",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": null
+  },
+  {
+    "id": "cheffry",
+    "name": "Cheffry",
+    "abbreviation": "CHE",
+    "number": null,
+    "country": "United States",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "usa"
+  },
+  {
+    "id": "sam",
+    "name": "Sam",
+    "abbreviation": "SAM",
+    "number": null,
+    "country": "United Kingdom",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "uk"
+  },
+  {
+    "id": "raul",
+    "name": "Raul",
+    "abbreviation": "RAU",
+    "number": null,
+    "country": "Mexico",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "mexico"
+  },
+  {
+    "id": "Karl",
+    "name": "Karl",
+    "abbreviation": "KAR",
+    "number": null,
+    "country": "Sweden",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "sweden"
+  },
+  {
+    "id": "geometric",
+    "name": "Geometric",
+    "abbreviation": "GEO",
+    "number": null,
+    "country": "The Philippines",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "philippines"
+  },
+  {
+    "id": "chiefgray",
+    "name": "ChiefGray",
+    "abbreviation": "CHF",
+    "number": null,
+    "country": "United States",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "usa"
+  },
+  {
+    "id": "henry",
+    "name": "Henry",
+    "abbreviation": "HEN",
+    "number": null,
+    "country": "Hong Kong",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": null
   }
 ]
