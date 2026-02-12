@@ -306,7 +306,7 @@
   {
     "id": "iujt",
     "name": "Iujt",
-    "abbreviation": "Ijt",
+    "abbreviation": "LOU",
     "number": 12,
     "country": "Colombia",
     "color": "#F47600",
@@ -318,5 +318,15 @@
       }
     ],
     "flagId": "colombia"
-  }
+  },
+  {
+    "id": "mitch",
+    "name": "Mitch",
+    "abbreviation": "MIT",
+    "number": null,
+    "country": "uk",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": "colombia"
+  },
 ]
