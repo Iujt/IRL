@@ -82,5 +82,77 @@
     "country": "United States",
     "circuit": "Las Vegas Strip Circuit",
     "flagId": "usa"
+  },
+  {
+    "id": "portugal",
+    "country": "Portugal",
+    "circuit": "Autodromo Internacional do Algarve",
+    "flagId": "portugal"
+  },
+  {
+    "id": "azerbaijan",
+    "country": "Azerbaijan",
+    "circuit": "Baku City Circuit",
+    "flagId": "azerbaijan"
+  },
+  {
+    "id": "singapore",
+    "country": "Singapore",
+    "circuit": "Marina Bay Street Circuit",
+    "flagId": "singapore"
+  },
+  {
+    "id": "austin",
+    "country": "United States",
+    "circuit": "Circuit of the Americas",
+    "flagId": "usa"
+  },
+  {
+    "id": "france",
+    "country": "France",
+    "circuit": "Circuit Paul Ricard",
+    "flagId": "france"
+  },
+  {
+    "id": "imola",
+    "country": "Italy",
+    "circuit": "Autodromo Internazionale Enzo e Dino Ferrari",
+    "flagId": "italy"
+  },
+  {
+    "id": "hungary",
+    "country": "Hungary",
+    "circuit": "The Hungaroring",
+    "flagId": "hungary"
+  },
+  {
+    "id": "mexico",
+    "country": "Mexico",
+    "circuit": "Autodromo Hermanos Rodriguez",
+    "flagId": "mexico"
+  },
+  {
+    "id": "uae",
+    "country": "United Arab Emirates",
+    "circuit": "Yas Marina Circuit",
+    "flagId": "uae"
+  },
+  {
+    "id": "australia",
+    "country": "Australia",
+    "circuit": "Albert Park Circuit",
+    "flagId": "australia"
+  },
+  {
+    "id": "china",
+    "country": "China",
+    "circuit": "Shanghai International Circuit",
+    "flagId": "china"
+  },
+  {
+    "id": "miami",
+    "country": "United States",
+    "circuit": "Circuit",
+    "flagId": "usa"
   }
 ]
