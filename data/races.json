@@ -807,7 +807,7 @@
     "track": "Circuit de Monaco",
     "circuitId": "monaco",
     "weather": null,
-    "status": "upcoming",
+    "status": "completed",
     "sessions": {
       "sprint": {
         "name": "Sprint",
