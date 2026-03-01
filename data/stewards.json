@@ -1,5 +1,66 @@
 [
   {
+    "round": 7,
+    "race": "Spain",
+    "date": "2026-02-22",
+    "decisions": [
+      {
+        "driver": "Cody",
+        "incident": "275",
+        "penalty": null,
+        "notes": "Fair penalty, no in game pen removed."
+      },
+      {
+        "driver": "Gonzo",
+        "incident": "276",
+        "penalty": null,
+          "notes": "Incident invalid due to no footage provided."
+      },
+      {
+        "driver": "Sick drift bro",
+        "incident": "277",
+        "penalty": null,
+        "notes": "Sick drift."
+      },
+      {
+        "driver": "Cody",
+        "incident": "278",
+        "penalty": "3 LP deduction, 5 second time penalty.",
+        "notes": "Causing a collission resulting in major loss of time of another driver."
+      },
+      {
+        "driver": "Carmelo",
+        "incident": "Other Penalties",
+        "penalty": "1 LP deduction",
+        "notes": "Failing to use required settings"
+      },
+      {
+        "driver": "StandingCart",
+        "incident": "Other Penalties",
+        "penalty": "2 LP deduction.",
+        "notes": "Failing to provide video evidence."
+      },
+      {
+        "driver": "StandingCart",
+        "incident": "Other Penalties",
+        "penalty": "Quali ban and 10 second penalty for next race finished.",
+        "notes": "Crossing the 5 LP threshold."
+      },
+      {
+        "driver": "Cody",
+        "incident": "Other Penalties",
+        "penalty": "5 second penalty for next race finished.",
+        "notes": "Crossing the 2 LP threshold."
+      },
+      {
+        "driver": "PinkBooger",
+        "incident": "Other Penalties",
+        "penalty": "1 AWP awarded.",
+        "notes": "Not selecting an attendance option."
+      }
+    ]
+  },
+  {
     "round": 6,
     "race": "Monaco",
     "date": "2026-02-15",
