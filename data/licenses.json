@@ -23,7 +23,7 @@
   {
     "driverId": "carmelo",
     "driver": "",
-    "lp": 17,
+    "lp": 16,
     "ddwp": 0,
     "awp": 0
   },
@@ -32,7 +32,7 @@
     "driver": "",
     "lp": 20,
     "ddwp": 0,
-    "awp": 0
+    "awp": 1
   },
   {
     "driverId": "ashley",
@@ -51,7 +51,7 @@
   {
     "driverId": "cody",
     "driver": "",
-    "lp": 20,
+    "lp": 17,
     "ddwp": 1,
     "awp": 0
   },
@@ -114,7 +114,7 @@
   {
     "driverId": "standingcart",
     "driver": "",
-    "lp": 17,
+    "lp": 15,
     "ddwp": 0,
     "awp": 0
   },
