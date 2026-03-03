@@ -3,11 +3,11 @@
     "id": "ace",
     "name": "Aceinpocket",
     "abbreviation": "ACE",
-    "number": 79,
+    "number": null,
     "country": "United States",
-    "color": "#6C98FF",
-    "teamHistory": null
-    "flagId": "usa"
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": null
   },
   {
     "id": "langy",
@@ -312,6 +312,22 @@
       }
     ],
     "flagId": "colombia"
+  },
+  {
+    "id": "vegestian",
+    "name": "Vegestian",
+    "abbreviation": "VEG",
+    "number": 18,
+    "country": "Italy",
+    "color": "#ED1131",
+    "teamHistory": [
+      {
+        "teamId": "t2",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "italy"
   },
   {
     "id": "patrone",
@@ -782,21 +798,5 @@
     "color": "#FFFFFF",
     "teamHistory": null,
     "flagId": null
-  },
-  {
-    "id": "vegestian",
-    "name": "Vegestian",
-    "abbreviation": "VEG",
-    "number": 18,
-    "country": "Italy",
-    "color": "#ED1131",
-    "teamHistory": [
-      {
-        "teamId": "t2",
-        "from": "2024-01-01",
-        "to": null
-      }
-    ],
-    "flagId": "italy"
   }
 ]
