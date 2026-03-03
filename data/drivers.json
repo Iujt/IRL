@@ -6,13 +6,7 @@
     "number": 79,
     "country": "United States",
     "color": "#6C98FF",
-    "teamHistory": [
-      {
-        "teamId": "t1",
-        "from": "2025-01-01",
-        "to": null
-      }
-    ],
+    "teamHistory": null
     "flagId": "usa"
   },
   {
@@ -40,7 +34,7 @@
     "color": "#ED1131",
     "teamHistory": [
       {
-        "teamId": "t2",
+        "teamId": "t9",
         "from": "2025-01-01",
         "to": null
       }
@@ -264,7 +258,7 @@
     "color": "#01C00E",
     "teamHistory": [
       {
-        "teamId": "t9",
+        "teamId": "t1",
         "from": "2025-01-01",
         "to": null
       }
@@ -788,5 +782,21 @@
     "color": "#FFFFFF",
     "teamHistory": null,
     "flagId": null
+  },
+  {
+    "id": "vegestian",
+    "name": "Vegestian",
+    "abbreviation": "VEG",
+    "number": 18,
+    "country": "Italy",
+    "color": "#ED1131",
+    "teamHistory": [
+      {
+        "teamId": "t2",
+        "from": "2024-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "italy"
   }
 ]
