@@ -1,5 +1,24 @@
 [
   {
+    "round": 8,
+    "race": "Netherlands",
+    "date": "2026-03-01",
+    "decisions": [
+      {
+        "driver": "Cody",
+        "incident": "279",
+        "penalty": "1 DDWP",
+        "notes": "While Cody did cause light contact, Standingcart spun on his own fault. DDWP for unsportsmanlike battling."
+      },
+      {
+        "driver": "Iujt",
+        "incident": "280",
+        "penalty": null,
+          "notes": "Unfortunate incident, Iujt didn't consider Carmelo's POV from cockpit cam, led to incident."
+      }
+    ]
+  },
+  {
     "round": 7,
     "race": "Spain",
     "date": "2026-02-22",
