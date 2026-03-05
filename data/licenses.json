@@ -1,12 +1,5 @@
 [
   {
-    "driverId": "ace",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
     "driverId": "langy",
     "driver": "",
     "lp": 18,
@@ -45,14 +38,14 @@
     "driverId": "czajnik",
     "driver": "",
     "lp": 20,
-    "ddwp": 1,
+    "ddwp": 0,
     "awp": 0
   },
   {
     "driverId": "cody",
     "driver": "",
     "lp": 17,
-    "ddwp": 1,
+    "ddwp": 2,
     "awp": 0
   },
   {
@@ -138,5 +131,19 @@
     "lp": 20,
     "ddwp": 0,
     "awp": 0
-  }
+  },
+  {
+    "driverId": "yaston",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
+    "awp": 0
+  },
+  {
+    "driverId": "vegestian",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
+    "awp": 0
+  },
 ]
