@@ -61,10 +61,10 @@
     "id": "pinkbooger",
     "name": "Pink Booger",
     "abbreviation": "PNK",
-    "number": 44,
+    "number": null,
     "country": "United States",
     "color": "#FFFFFF",
-    "teamHistory": null
+    "teamHistory": null,
     "flagId": "usa"
   },
   {
