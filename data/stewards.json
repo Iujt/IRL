@@ -15,6 +15,12 @@
         "incident": "280",
         "penalty": null,
           "notes": "Unfortunate incident, Iujt didn't consider Carmelo's POV from cockpit cam, led to incident."
+      },
+      {
+        "driver": "Cody",
+        "incident": "Other penalties",
+        "penalty": "5 second time penalty for next race finished.",
+          "notes": "Penalty awarded for accumulation of 2 DDWP."
       }
     ]
   },
