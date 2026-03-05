@@ -63,14 +63,8 @@
     "abbreviation": "PNK",
     "number": 44,
     "country": "United States",
-    "color": "#00A1E8",
-    "teamHistory": [
-      {
-        "teamId": "t3",
-        "from": "2025-01-01",
-        "to": null
-      }
-    ],
+    "color": "#FFFFFF",
+    "teamHistory": null
     "flagId": "usa"
   },
   {
@@ -328,6 +322,22 @@
       }
     ],
     "flagId": "italy"
+  },
+  {
+    "id": "yaston",
+    "name": "Yastonpololo",
+    "abbreviation": "YAS",
+    "number": 99,
+    "country": "France",
+    "color": "#0055A4",
+    "teamHistory": [
+      {
+        "teamId": "t3",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "france"
   },
   {
     "id": "patrone",
