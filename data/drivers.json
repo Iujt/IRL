@@ -808,5 +808,25 @@
     "color": "#FFFFFF",
     "teamHistory": null,
     "flagId": null
+  },
+  {
+    "id": "prisma",
+    "name": "Prisma",
+    "abbreviation": "PRM",
+    "number": null,
+    "country": "Germany",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": null
+  },
+  {
+    "id": "harv",
+    "name": "harv",
+    "abbreviation": "HAR",
+    "number": null,
+    "country": "United States",
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": null
   }
 ]
