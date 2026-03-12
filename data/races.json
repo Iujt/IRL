@@ -1552,6 +1552,10 @@
     "weather": null,
     "status": "upcoming",
     "sessions": {
+      "sprint": {
+        "name": "Sprint",
+        "results": []
+      },
       "feature": {
         "name": "Feature Race",
         "results": []
