@@ -1451,7 +1451,7 @@
           {
             "position": 9,
             "driverId": "prisma",
-            "teamId": "Reserve",
+            "teamId": null,
             "time": "+1:27.896",
             "status": "Finished",
             "gridPosition": 8,
@@ -1501,7 +1501,7 @@
           {
             "position": 14,
             "driverId": "harv",
-            "teamId": "Reserve",
+            "teamId": null,
             "time": "+2:00.754",
             "status": "Finished",
             "gridPosition": 16,
