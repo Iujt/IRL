@@ -1552,8 +1552,8 @@
     "weather": null,
     "status": "upcoming",
     "sessions": {
-      "sprint":  {
-        "name": "Sprint",
+      "sprint": {
+        "name": "Sprint Race",
         "results": []
       }
       "feature": {
