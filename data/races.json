@@ -1303,16 +1303,6 @@
           },
           {
             "position": 8,
-            "driverId": "ludovic",
-            "teamId": "t5",
-            "time": "+1 Lap",
-            "status": "Finished",
-            "gridPosition": 11,
-            "penalties": [],
-            "fastestLap": false
-          },
-          {
-            "position": 9,
             "driverId": "tom",
             "teamId": "t5",
             "time": "+1 Lap",
@@ -1322,7 +1312,7 @@
             "fastestLap": false
           },
           {
-            "position": 10,
+            "position": 9,
             "driverId": "jordan",
             "teamId": "t6",
             "time": "DNF",
@@ -1332,7 +1322,7 @@
             "fastestLap": false
           },
           {
-            "position": 11,
+            "position": 10,
             "driverId": "daniel",
             "teamId": "t8",
             "time": "DNF",
@@ -1342,7 +1332,7 @@
             "fastestLap": false
           },
           {
-            "position": 12,
+            "position": 11,
             "driverId": "standingcart",
             "teamId": "t1",
             "time": "DNF",
@@ -1350,7 +1340,17 @@
             "gridPosition": 10,
             "penalties": [],
             "fastestLap": false
-          }
+          },
+          {
+            "position": 12,
+            "driverId": "ludovic",
+            "teamId": "t5",
+            "time": "DSQ",
+            "status": "DSQ",
+            "gridPosition": 11,
+            "penalties": [],
+            "fastestLap": false
+          },
         ]
       }
     }
@@ -1362,16 +1362,133 @@
     "date": "2026-03-08T20:00:00Z",
     "track": "Circuit de Spa-Francorchamps",
     "circuitId": "spa",
-    "weather": null,
-    "status": "upcoming",
+    "weather": "Dry",
+    "status": "completed",
     "sessions": {
-      "sprint": {
-        "name": "Sprint",
-        "results": []
-      },
       "feature": {
         "name": "Feature Race",
-        "results": []
+        "results": [
+          {
+            "position": 1,
+            "driverId": "twiggy",
+            "teamId": "t7",
+            "time": "50:01",
+            "status": "Finished",
+            "gridPosition": 1,
+            "penalties": [],
+            "fastestLap": true
+          },
+          {
+            "position": 2,
+            "driverId": "topuente",
+            "teamId": "t10",
+            "time": "8.170",
+            "status": "Finished",
+            "gridPosition": 3,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 3,
+            "driverId": "iujt",
+            "teamId": "t10",
+            "time": "11.611",
+            "status": "Finished",
+            "gridPosition": 8,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 4,
+            "driverId": "czajnik",
+            "teamId": "t4",
+            "time": "12.759",
+            "status": "Finished",
+            "gridPosition": 5,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 5,
+            "driverId": "carmelo",
+            "teamId": "t2",
+            "time": "15.512",
+            "status": "Finished",
+            "gridPosition": 6,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 6,
+            "driverId": "langy",
+            "teamId": "t1",
+            "time": "19.293",
+            "status": "Finished",
+            "gridPosition": 4,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 7,
+            "driverId": "cody",
+            "teamId": "t4",
+            "time": "36.868",
+            "status": "Finished",
+            "gridPosition": 9,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 8,
+            "driverId": "tom",
+            "teamId": "t5",
+            "time": "+1 Lap",
+            "status": "Finished",
+            "gridPosition": 12,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 9,
+            "driverId": "jordan",
+            "teamId": "t6",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 2,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 10,
+            "driverId": "daniel",
+            "teamId": "t8",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 7,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 11,
+            "driverId": "standingcart",
+            "teamId": "t1",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 10,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 12,
+            "driverId": "ludovic",
+            "teamId": "t5",
+            "time": "DSQ",
+            "status": "DSQ",
+            "gridPosition": 11,
+            "penalties": [],
+            "fastestLap": false
+          },
+        ]
       }
     }
   },
