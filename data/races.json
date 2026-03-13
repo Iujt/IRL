@@ -1451,12 +1451,14 @@
           {
             "position": 9,
             "driverId": "prisma",
-            "teamId": null,
+            "teamId": "t9",
             "time": "+1:27.896",
             "status": "Finished",
             "gridPosition": 8,
             "penalties": [],
             "fastestLap": false
+            "isReserve": true,
+            "pointsEligible": false
           },
           {
             "position": 10,
@@ -1501,12 +1503,14 @@
           {
             "position": 14,
             "driverId": "harv",
-            "teamId": null,
+            "teamId": "t8",
             "time": "+2:00.754",
             "status": "Finished",
             "gridPosition": 16,
             "penalties": [],
             "fastestLap": false
+            "isReserve": true,
+            "pointsEligible": false
           },
           {
             "position": 15,
