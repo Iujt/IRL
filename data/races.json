@@ -1457,7 +1457,7 @@
             "gridPosition": 8,
             "penalties": [],
             "fastestLap": false
-            "isReserve": true,
+            "isReserve": true
             "pointsEligible": false
           },
           {
@@ -1509,7 +1509,7 @@
             "gridPosition": 16,
             "penalties": [],
             "fastestLap": false
-            "isReserve": true,
+            "isReserve": true
             "pointsEligible": false
           },
           {
