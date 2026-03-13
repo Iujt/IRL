@@ -1456,8 +1456,8 @@
             "status": "Finished",
             "gridPosition": 8,
             "penalties": [],
-            "fastestLap": false
-            "isReserve": true
+            "fastestLap": false,
+            "isReserve": true,
             "pointsEligible": false
           },
           {
@@ -1508,8 +1508,8 @@
             "status": "Finished",
             "gridPosition": 16,
             "penalties": [],
-            "fastestLap": false
-            "isReserve": true
+            "fastestLap": false,
+            "isReserve": true,
             "pointsEligible": false
           },
           {
