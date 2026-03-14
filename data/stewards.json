@@ -15,6 +15,12 @@
         "incident": "282",
         "penalty": null,
         "notes": "Voided due to being reported after Reporting Window closed."
+      },
+      {
+        "driver": "Tom",
+        "incident": "Other penalties",
+        "penalty": "1 LP deduction and 5 second time penalty for next race finished.",
+          "notes": "Penalty awarded for readying up before required wait time."
       }
     ]
   },
