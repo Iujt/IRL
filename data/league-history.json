@@ -1,7 +1,7 @@
 {
   "seasons": [
     {
-      "season": "2022",
+      "season": "Season 1",
       "rounds": [
         {
           "round": 1,
@@ -11,7 +11,7 @@
           "results": [
             {
               "position": 1,
-              "driverId": "ace",
+              "driverId": "mitch",
               "status": "Finished",
               "fastestLap": false
             },
@@ -23,7 +23,7 @@
             },
             {
               "position": 3,
-              "driverId": "mitch",
+              "driverId": "seddon",
               "status": "Finished",
               "fastestLap": false
             }
