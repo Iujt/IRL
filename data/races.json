@@ -1607,7 +1607,7 @@
             "status": "Finished",
             "gridPosition": 1,
             "penalties": [],
-            "fastestLap": false
+            "fastestLap": false,
             "isReserve": true,
             "pointsEligible": false
           },
@@ -1649,7 +1649,9 @@
             "status": "Finished",
             "gridPosition": 12,
             "penalties": [],
-            "fastestLap": false
+            "fastestLap": false,
+            "isReserve": true,
+            "pointsEligible": false
           },
           {
             "position": 10,
@@ -1754,7 +1756,7 @@
             "status": "Finished",
             "gridPosition": 5,
             "penalties": [],
-            "fastestLap": false
+            "fastestLap": false,
             "isReserve": true,
             "pointsEligible": false
           },
@@ -1816,7 +1818,7 @@
             "status": "DNF",
             "gridPosition": 9,
             "penalties": [],
-            "fastestLap": false
+            "fastestLap": false,
             "isReserve": true,
             "pointsEligible": false
           },
