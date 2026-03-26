@@ -65,8 +65,8 @@
   {
     "driverId": "jordan",
     "driver": "",
-    "lp": 20,
-    "ddwp": 0,
+    "lp": 15,
+    "ddwp": 1,
     "awp": 0
   },
   {
@@ -116,7 +116,7 @@
     "driver": "",
     "lp": 20,
     "ddwp": 0,
-    "awp": 0
+    "awp": 1
   },
   {
     "driverId": "topuente",
@@ -128,8 +128,8 @@
   {
     "driverId": "iujt",
     "driver": "",
-    "lp": 20,
-    "ddwp": 0,
+    "lp": 17,
+    "ddwp": 1,
     "awp": 0
   },
   {
@@ -137,7 +137,7 @@
     "driver": "",
     "lp": 20,
     "ddwp": 0,
-    "awp": 0
+    "awp": 1
   },
   {
     "driverId": "vegestian",
