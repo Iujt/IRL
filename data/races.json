@@ -1553,8 +1553,8 @@
     "date": "2026-03-22T20:00:00Z",
     "track": "Autodromo Nazionale Monza",
     "circuitId": "monza",
-    "weather": null,
-    "status": "Completed",
+    "weather": "Wet",
+    "status": "completed",
     "sessions": {
       "sprint": {
         "name": "Sprint",
