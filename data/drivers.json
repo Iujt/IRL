@@ -45,17 +45,11 @@
     "id": "carmelo",
     "name": "Carmelo",
     "abbreviation": "CAR",
-    "number": 26,
+    "number": null,
     "country": "Italy",
-    "color": "#ED1131",
-    "teamHistory": [
-      {
-        "teamId": "t2",
-        "from": "2024-01-01",
-        "to": null
-      }
-    ],
-    "flagId": "italy"
+    "color": "#FFFFFF",
+    "teamHistory": null,
+    "flagId": null
   },
   {
     "id": "pinkbooger",
