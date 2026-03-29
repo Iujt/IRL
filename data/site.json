@@ -1,6 +1,5 @@
 {
-  "aiEndpoint": "irl-assistant.andresfelipe-restrepogonzalez.workers.dev/ask",
+  "aiEndpoint": "https://irl-assistant.andresfelipe-restrepogonzalez.workers.dev/ask",
   "aiEnabledDefault": false,
   "aiBehaviorDefault": "fallback"
 }
-
