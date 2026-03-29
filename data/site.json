@@ -1,5 +1,5 @@
 {
-  "aiEndpoint": "irl-assistant.andresfelipe-restrepogonzalez.workers.dev",
+  "aiEndpoint": "irl-assistant.andresfelipe-restrepogonzalez.workers.dev/ask",
   "aiEnabledDefault": false,
   "aiBehaviorDefault": "fallback"
 }
