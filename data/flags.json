@@ -183,5 +183,10 @@
       "id": "namibia",
       "country": "Namibia",
       "image": "assets/img/flags/namibia.jpg.webp"
+  },
+  {
+      "id": "pakistan",
+      "country": "Pakistan",
+      "image": "assets/img/flags/pakistan.png"
   }
 ]
