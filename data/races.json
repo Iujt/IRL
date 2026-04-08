@@ -2056,12 +2056,125 @@
     "date": "2026-04-05T19:00:00Z",
     "track": "Circuit Gilles Villenueve",
     "circuitId": "canada",
-    "weather": null,
-    "status": "upcoming",
+    "weather": "Dry",
+    "status": "completed",
     "sessions": {
       "feature": {
         "name": "Feature Race",
-        "results": []
+        "results": [
+          {
+            "position": 1,
+            "driverId": "jeo",
+            "teamId": "t5",
+            "time": "47:01",
+            "status": "Finished",
+            "gridPosition": 3,
+            "penalties": [],
+            "fastestLap": true,
+            "isReserve": true,
+            "pointsEligible": false
+          },
+          {
+            "position": 2,
+            "driverId": "kaveh",
+            "teamId": "t2",
+            "time": "+3.833",
+            "status": "Finished",
+            "gridPosition": 2,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 3,
+            "driverId": "moose",
+            "teamId": "t7",
+            "time": "+7.901",
+            "status": "Finished",
+            "gridPosition": 1,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 4,
+            "driverId": "tom",
+            "teamId": "t5",
+            "time": "+25.448",
+            "status": "Finished",
+            "gridPosition": 9,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 5,
+            "driverId": "topuente",
+            "teamId": "t8",
+            "time": "+30.506",
+            "status": "Finished",
+            "gridPosition": 4,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 6,
+            "driverId": "taou",
+            "teamId": "t2",
+            "time": "+59.492",
+            "status": "Finished",
+            "gridPosition": 7,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 7,
+            "driverId": "daniel",
+            "teamId": "t8",
+            "time": "+1:00.746",
+            "status": "Finished",
+            "gridPosition": 10,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 8,
+            "driverId": "xeebo",
+            "teamId": "t9",
+            "time": "+1 Lap",
+            "status": "Finished",
+            "gridPosition": 8,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 9,
+            "driverId": "ashley",
+            "teamId": "t3",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 5,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 10,
+            "driverId": "standingcart",
+            "teamId": "t1",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 6,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 11,
+            "driverId": "cody",
+            "teamId": "t4",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 11,
+            "penalties": [],
+            "fastestLap": false
+          }
+        ]
       }
     }
   },
