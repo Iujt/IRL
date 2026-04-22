@@ -5,13 +5,14 @@
       "label": "Season 1 (2022)",
       "year": 2022,
       "wdc": {
-        "driverId": "",
-        "name": ""
+        "driverId": "mitch",
+        "name": "Mitch"
+        "points": 318.0
       },
       "wcc": {
-        "teamId": "",
-        "name": "",
-        "driverIds": []
+        "teamId": "t4",
+        "name": "Haas",
+        "driverIds": ["mitch","dom"]
       }
     },
     {
@@ -109,9 +110,9 @@
         "points": 346.0
       },
       "wcc": {
-        "teamId": "",
-        "name": "",
-        "driverIds": []
+        "teamId": "t7",
+        "name": "Mercedes",
+        "driverIds": ["twiggy","moose"]
       }
     }
   ]
