@@ -5,13 +5,14 @@
       "label": "Season 1 (2022)",
       "year": 2022,
       "wdc": {
-        "driverId": "",
-        "name": ""
+        "driverId": "mitch",
+        "name": "Mitch",
+        "points": 318
       },
       "wcc": {
-        "name": "",
-        "logoId": "",
-        "driverIds": []
+        "name": "Haas",
+        "logoId": "l4",
+        "driverIds": ["mitch","dom"]
       }
     },
     {
@@ -21,12 +22,12 @@
       "wdc": {
         "driverId": "mitch",
         "name": "mitch",
-        "points": 292.0
+        "points": 292
       },
       "wcc": {
-        "name": "",
-        "logoId": "",
-        "driverIds": []
+        "name": "Ferrari",
+        "logoId": "l2",
+        "driverIds": ["mitch","daniel"]
       }
     },
     {
@@ -34,13 +35,14 @@
       "label": "Season 3 (2023)",
       "year": 2023,
       "wdc": {
-        "driverId": "",
-        "name": ""
+        "driverId": "patrone",
+        "name": "El Patrone",
+        "points": 279
       },
       "wcc": {
-        "name": "",
-        "logoId": "",
-        "driverIds": []
+        "name": "Mercedes",
+        "logoId": "l7",
+        "driverIds": ["patrone","roadrunner"]
       }
     },
     {
@@ -48,13 +50,14 @@
       "label": "Season 4 (2023)",
       "year": 2023,
       "wdc": {
-        "driverId": "",
-        "name": ""
+        "driverId": "oskar",
+        "name": "Oskar Berggren",
+        "points": 183
       },
       "wcc": {
-        "name": "",
-        "logoId": "",
-        "driverIds": []
+        "name": "Mercedes",
+        "logoId": "l7",
+        "driverIds": ["oskar"]
       }
     },
     {
@@ -62,13 +65,14 @@
       "label": "Season 5 (2024)",
       "year": 2024,
       "wdc": {
-        "driverId": "",
-        "name": ""
+        "driverId": "genoli",
+        "name": "Genoli",
+        "points": 169
       },
       "wcc": {
-        "name": "",
-        "logoId": "",
-        "driverIds": []
+        "name": "Williams",
+        "logoId": "l8",
+        "driverIds": ["tom","iujt"]
       }
     },
     {
@@ -76,13 +80,14 @@
       "label": "Season 6 (2025)",
       "year": 2025,
       "wdc": {
-        "driverId": "",
-        "name": ""
+        "driverId": "jeo",
+        "name": "JEO",
+        "points": 268
       },
       "wcc": {
-        "name": "",
-        "logoId": "",
-        "driverIds": []
+        "name": "Aston Martin",
+        "logoId": "l6",
+        "driverIds": ["jeo","pinkbooger"]
       }
     },
     {
@@ -90,13 +95,14 @@
       "label": "Season 7 (2025)",
       "year": 2025,
       "wdc": {
-        "driverId": "",
-        "name": ""
+        "driverId": "oskar",
+        "name": "Oskar Berggren",
+        "points": 272.5
       },
       "wcc": {
-        "name": "",
-        "logoId": "",
-        "driverIds": []
+        "name": "Racing Bulls",
+        "logoId": "l1",
+        "driverIds": ["topuente","moose"]
       }
     },
     {
@@ -109,9 +115,9 @@
         "points": 346.0
       },
       "wcc": {
-        "name": "",
-        "logoId": "",
-        "driverIds": []
+        "name": "Mercedes",
+        "logoId": "l7",
+        "driverIds": ["twiggy","moose"]
       }
     }
   ]
