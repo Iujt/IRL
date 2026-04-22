@@ -1,5 +1,13 @@
 [
   {
+    "id": "t7",
+    "name": "Mercedes",
+    "base": "Brackley",
+    "engine": "Mercedes",
+    "color": "#00D7B6",
+    "logoId": "l7"
+  },
+  {
     "id": "t1",
     "name": "RB Racing",
     "base": "Faenza",
@@ -46,14 +54,6 @@
     "engine": "Mercedes",
     "color": "#229971",
     "logoId": "l6"
-  },
-  {
-    "id": "t7",
-    "name": "Mercedes",
-    "base": "Brackley",
-    "engine": "Mercedes",
-    "color": "#00D7B6",
-    "logoId": "l7"
   },
   {
     "id": "t8",
