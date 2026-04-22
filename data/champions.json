@@ -1,0 +1,118 @@
+{
+  "seasons": [
+    {
+      "seasonId": "s1",
+      "label": "Season 1 (2022)",
+      "year": 2022,
+      "wdc": {
+        "driverId": "",
+        "name": ""
+      },
+      "wcc": {
+        "name": "",
+        "logoId": "",
+        "driverIds": []
+      }
+    },
+    {
+      "seasonId": "s2",
+      "label": "Season 2 (2022)",
+      "year": 2022,
+      "wdc": {
+        "driverId": "mitch",
+        "name": "mitch",
+        "points": 292.0
+      },
+      "wcc": {
+        "name": "",
+        "logoId": "",
+        "driverIds": []
+      }
+    },
+    {
+      "seasonId": "s3",
+      "label": "Season 3 (2023)",
+      "year": 2023,
+      "wdc": {
+        "driverId": "",
+        "name": ""
+      },
+      "wcc": {
+        "name": "",
+        "logoId": "",
+        "driverIds": []
+      }
+    },
+    {
+      "seasonId": "s4",
+      "label": "Season 4 (2023)",
+      "year": 2023,
+      "wdc": {
+        "driverId": "",
+        "name": ""
+      },
+      "wcc": {
+        "name": "",
+        "logoId": "",
+        "driverIds": []
+      }
+    },
+    {
+      "seasonId": "s5",
+      "label": "Season 5 (2024)",
+      "year": 2024,
+      "wdc": {
+        "driverId": "",
+        "name": ""
+      },
+      "wcc": {
+        "name": "",
+        "logoId": "",
+        "driverIds": []
+      }
+    },
+    {
+      "seasonId": "s6",
+      "label": "Season 6 (2025)",
+      "year": 2025,
+      "wdc": {
+        "driverId": "",
+        "name": ""
+      },
+      "wcc": {
+        "name": "",
+        "logoId": "",
+        "driverIds": []
+      }
+    },
+    {
+      "seasonId": "s7",
+      "label": "Season 7 (2025)",
+      "year": 2025,
+      "wdc": {
+        "driverId": "",
+        "name": ""
+      },
+      "wcc": {
+        "name": "",
+        "logoId": "",
+        "driverIds": []
+      }
+    },
+    {
+      "seasonId": "s8",
+      "label": "Season 8 (2026)",
+      "year": 2026,
+      "wdc": {
+        "driverId": "twiggy",
+        "name": "Twiggy",
+        "points": 346.0
+      },
+      "wcc": {
+        "name": "",
+        "logoId": "",
+        "driverIds": []
+      }
+    }
+  ]
+}
