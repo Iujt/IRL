@@ -2185,12 +2185,143 @@
     "date": "2026-04-12T19:00:00Z",
     "track": "Autodromo Jose Carlos Pace",
     "circuitId": "interlagos",
-    "weather": null,
-    "status": "upcoming",
+    "weather": "Dry",
+    "status": "completed",
     "sessions": {
       "feature": {
         "name": "Feature Race",
-        "results": []
+        "results": [
+          {
+            "position": 1,
+            "driverId": "topuente",
+            "teamId": "t10",
+            "time": "44:03",
+            "status": "Finished",
+            "gridPosition": 3,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 2,
+            "driverId": "moose",
+            "teamId": "t7",
+            "time": "+1.360",
+            "status": "Finished",
+            "gridPosition": 4,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 3,
+            "driverId": "twiggy",
+            "teamId": "t7",
+            "time": "+3.177",
+            "status": "Finished",
+            "gridPosition": 2,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 4,
+            "driverId": "oskar",
+            "teamId": "t9",
+            "time": "+8.677",
+            "status": "Finished",
+            "gridPosition": 1,
+            "penalties": [],
+            "fastestLap": true
+          },
+          {
+            "position": 5,
+            "driverId": "pimentel",
+            "teamId": "t8",
+            "time": "+27.216",
+            "status": "Finished",
+            "gridPosition": 6,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 6,
+            "driverId": "jordan",
+            "teamId": "t6",
+            "time": "+36.196",
+            "status": "Finished",
+            "gridPosition": 7,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 7,
+            "driverId": "czajnik",
+            "teamId": "t4",
+            "time": "+39.526",
+            "status": "Finished",
+            "gridPosition": 8,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 8,
+            "driverId": "ashley",
+            "teamId": "t3",
+            "time": "+43.454",
+            "status": "Finished",
+            "gridPosition": 9,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 9,
+            "driverId": "taou",
+            "teamId": "t2",
+            "time": "+57.743",
+            "status": "Finished",
+            "gridPosition": 11,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 10,
+            "driverId": "iujt",
+            "teamId": "t10",
+            "time": "+1:57.862",
+            "status": "Finished",
+            "gridPosition": 10,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 11,
+            "driverId": "gonzo",
+            "teamId": "t6",
+            "time": "+1 Lap",
+            "status": "Finished",
+            "gridPosition": 12,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 12,
+            "driverId": "daniel",
+            "teamId": "t8",
+            "time": "+2 Laps",
+            "status": "Finished",
+            "gridPosition": 13,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 13,
+            "driverId": "tom",
+            "teamId": "t5",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 5,
+            "penalties": [],
+            "fastestLap": false
+          }
+        ]
       }
     }
   },
@@ -2202,11 +2333,152 @@
     "track": "Las Vegas Strip Circuit",
     "circuitId": "lasvegas",
     "weather": null,
-    "status": "upcoming",
+    "status": "completed",
     "sessions": {
       "feature": {
         "name": "Feature Race",
-        "results": []
+        "results": [
+          {
+            "position": 1,
+            "driverId": "kaveh",
+            "teamId": "t2",
+            "time": "42:51",
+            "status": "Finished",
+            "gridPosition": 1,
+            "penalties": [],
+            "fastestLap": true
+          },
+          {
+            "position": 2,
+            "driverId": "twiggy",
+            "teamId": "t7",
+            "time": "+4.725",
+            "status": "Finished",
+            "gridPosition": 3,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 3,
+            "driverId": "tom",
+            "teamId": "t5",
+            "time": "+8.268",
+            "status": "Finished",
+            "gridPosition": 2,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 4,
+            "driverId": "topuente",
+            "teamId": "t10",
+            "time": "+11.229",
+            "status": "Finished",
+            "gridPosition": 4,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 5,
+            "driverId": "standingcart",
+            "teamId": "t5",
+            "time": "+13.815",
+            "status": "Finished",
+            "gridPosition": 11,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 6,
+            "driverId": "xeebo",
+            "teamId": "t9",
+            "time": "+18,162",
+            "status": "Finished",
+            "gridPosition": 5,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 7,
+            "driverId": "moose",
+            "teamId": "t7",
+            "time": "+20.806",
+            "status": "Finished",
+            "gridPosition": 6,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 8,
+            "driverId": "iujt",
+            "teamId": "t10",
+            "time": "+27.347",
+            "status": "Finished",
+            "gridPosition": 7,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 9,
+            "driverId": "taou",
+            "teamId": "t2",
+            "time": "+36.427",
+            "status": "Finished",
+            "gridPosition": 9,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 10,
+            "driverId": "gonzo",
+            "teamId": "t6",
+            "time": "+1:12.265",
+            "status": "Finished",
+            "gridPosition": 13,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 11,
+            "driverId": "czajnik",
+            "teamId": "t4",
+            "time": "+1 Lap",
+            "status": "Finished",
+            "gridPosition": 10,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 12,
+            "driverId": "cody",
+            "teamId": "t4",
+            "time": "+2 Laps",
+            "status": "Finished",
+            "gridPosition": 12,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 13,
+            "driverId": "jordan",
+            "teamId": "t6",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 14,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 14,
+            "driverId": "pimentel",
+            "teamId": "t8",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 8,
+            "penalties": [],
+            "fastestLap": false
+          }
+        ]
       }
     }
   }
