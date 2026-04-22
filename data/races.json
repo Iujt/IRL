@@ -3,7 +3,7 @@
     "id": "s9r1",
     "round": 1,
     "name": "Round 1",
-    "date": "2027-01-09T20:00:00Z",
+    "date": "2026-05-03T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
     "weather": null,
@@ -19,7 +19,7 @@
     "id": "s9r2",
     "round": 2,
     "name": "Round 2",
-    "date": "2027-01-16T20:00:00Z",
+    "date": "2026-05-10T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
     "weather": null,
@@ -35,7 +35,7 @@
     "id": "s9r3",
     "round": 3,
     "name": "Round 3",
-    "date": "2027-01-23T20:00:00Z",
+    "date": "2026-05-17T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
     "weather": null,
@@ -51,7 +51,7 @@
     "id": "s9r4",
     "round": 4,
     "name": "Round 4",
-    "date": "2027-01-30T20:00:00Z",
+    "date": "2026-05-24T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
     "weather": null,
@@ -67,7 +67,7 @@
     "id": "s9r5",
     "round": 5,
     "name": "Round 5",
-    "date": "2027-02-06T20:00:00Z",
+    "date": "2026-05-31T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
     "weather": null,
@@ -83,7 +83,7 @@
     "id": "s9r6",
     "round": 6,
     "name": "Round 6",
-    "date": "2027-02-13T20:00:00Z",
+    "date": "2026-06-07T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
     "weather": null,
@@ -99,7 +99,7 @@
     "id": "s9r7",
     "round": 7,
     "name": "Round 7",
-    "date": "2027-02-20T20:00:00Z",
+    "date": "2026-06-14T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
     "weather": null,
@@ -115,7 +115,7 @@
     "id": "s9r8",
     "round": 8,
     "name": "Round 8",
-    "date": "2027-02-27T20:00:00Z",
+    "date": "2026-06-21T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
     "weather": null,
@@ -131,7 +131,7 @@
     "id": "s9r9",
     "round": 9,
     "name": "Round 9",
-    "date": "2027-03-06T20:00:00Z",
+    "date": "2026-06-28T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
     "weather": null,
@@ -147,7 +147,7 @@
     "id": "s9r10",
     "round": 10,
     "name": "Round 10",
-    "date": "2027-03-13T20:00:00Z",
+    "date": "2026-07-05T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
     "weather": null,
@@ -163,7 +163,7 @@
     "id": "s9r11",
     "round": 11,
     "name": "Round 11",
-    "date": "2027-03-20T20:00:00Z",
+    "date": "2026-07-12T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
     "weather": null,
@@ -179,7 +179,7 @@
     "id": "s9r12",
     "round": 12,
     "name": "Round 12",
-    "date": "2027-03-27T20:00:00Z",
+    "date": "2026-07-19T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
     "weather": null,
@@ -195,7 +195,7 @@
     "id": "s9r13",
     "round": 13,
     "name": "Round 13",
-    "date": "2027-04-03T20:00:00Z",
+    "date": "2026-07-26T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
     "weather": null,
@@ -211,71 +211,7 @@
     "id": "s9r14",
     "round": 14,
     "name": "Round 14",
-    "date": "2027-04-10T20:00:00Z",
-    "track": "TBD",
-    "circuitId": "",
-    "weather": null,
-    "status": "upcoming",
-    "sessions": {
-      "feature": {
-        "name": "Feature Race",
-        "results": []
-      }
-    }
-  },
-  {
-    "id": "s9r15",
-    "round": 15,
-    "name": "Round 15",
-    "date": "2027-04-17T20:00:00Z",
-    "track": "TBD",
-    "circuitId": "",
-    "weather": null,
-    "status": "upcoming",
-    "sessions": {
-      "feature": {
-        "name": "Feature Race",
-        "results": []
-      }
-    }
-  },
-  {
-    "id": "s9r16",
-    "round": 16,
-    "name": "Round 16",
-    "date": "2027-04-24T20:00:00Z",
-    "track": "TBD",
-    "circuitId": "",
-    "weather": null,
-    "status": "upcoming",
-    "sessions": {
-      "feature": {
-        "name": "Feature Race",
-        "results": []
-      }
-    }
-  },
-  {
-    "id": "s9r17",
-    "round": 17,
-    "name": "Round 17",
-    "date": "2027-05-01T20:00:00Z",
-    "track": "TBD",
-    "circuitId": "",
-    "weather": null,
-    "status": "upcoming",
-    "sessions": {
-      "feature": {
-        "name": "Feature Race",
-        "results": []
-      }
-    }
-  },
-  {
-    "id": "s9r18",
-    "round": 18,
-    "name": "Round 18",
-    "date": "2027-05-08T20:00:00Z",
+    "date": "2026-07-26T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
     "weather": null,
