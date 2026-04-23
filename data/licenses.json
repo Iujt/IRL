@@ -2,7 +2,7 @@
   {
     "driverId": "langy",
     "driver": "",
-    "lp": 18,
+    "lp": 20,
     "ddwp": 0,
     "awp": 0
   },
@@ -16,7 +16,7 @@
   {
     "driverId": "carmelo",
     "driver": "",
-    "lp": 16,
+    "lp": 20,
     "ddwp": 0,
     "awp": 0
   },
@@ -25,7 +25,7 @@
     "driver": "",
     "lp": 20,
     "ddwp": 0,
-    "awp": 1
+    "awp": 0
   },
   {
     "driverId": "ashley",
@@ -38,14 +38,14 @@
     "driverId": "czajnik",
     "driver": "",
     "lp": 20,
-    "ddwp": 1,
+    "ddwp": 0,
     "awp": 0
   },
   {
     "driverId": "cody",
     "driver": "",
-    "lp": 12,
-    "ddwp": 3,
+    "lp": 20,
+    "ddwp": 0,
     "awp": 0
   },
   {
@@ -58,28 +58,28 @@
   {
     "driverId": "tom",
     "driver": "",
-    "lp": 16,
+    "lp": 20,
     "ddwp": 0,
     "awp": 0
   },
   {
     "driverId": "jordan",
     "driver": "",
-    "lp": 15,
-    "ddwp": 1,
+    "lp": 20,
+    "ddwp": 0,
     "awp": 0
   },
   {
     "driverId": "gonzo",
     "driver": "",
-    "lp": 19,
+    "lp": 20,
     "ddwp": 0,
     "awp": 0
   },
   {
     "driverId": "moose",
     "driver": "",
-    "lp": 17,
+    "lp": 20,
     "ddwp": 0,
     "awp": 0
   },
@@ -100,14 +100,14 @@
   {
     "driverId": "daniel",
     "driver": "",
-    "lp": 14,
-    "ddwp": 2,
+    "lp": 20,
+    "ddwp": 0,
     "awp": 0
   },
   {
     "driverId": "standingcart",
     "driver": "",
-    "lp": 15,
+    "lp": 20,
     "ddwp": 0,
     "awp": 0
   },
@@ -116,7 +116,7 @@
     "driver": "",
     "lp": 20,
     "ddwp": 0,
-    "awp": 1
+    "awp": 0
   },
   {
     "driverId": "topuente",
@@ -128,8 +128,8 @@
   {
     "driverId": "iujt",
     "driver": "",
-    "lp": 17,
-    "ddwp": 1,
+    "lp": 20,
+    "ddwp": 0,
     "awp": 0
   },
   {
@@ -137,7 +137,7 @@
     "driver": "",
     "lp": 20,
     "ddwp": 0,
-    "awp": 2
+    "awp": 0
   },
   {
     "driverId": "vegestian",
