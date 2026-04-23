@@ -246,7 +246,7 @@
     "color": "#01C00E",
     "teamHistory": [
       {
-        "teamId": "t1",
+        "teamId": "t4",
         "from": "2025-01-01",
         "to": null
       }
@@ -330,7 +330,7 @@
     "color": "#ED1131",
     "teamHistory": [
       {
-        "teamId": "t2",
+        "teamId": "t6",
         "from": "2025-01-01",
         "to": null
       }
@@ -346,7 +346,7 @@
     "color": "#ED1131",
     "teamHistory": [
       {
-        "teamId": "t2",
+        "teamId": "t6",
         "from": "2025-01-01",
         "to": null
       }
