@@ -354,12 +354,12 @@
     "flagId": "pakistan"
   },
   {
-    "id": "yaston",
-    "name": "Yastonpololo",
-    "abbreviation": "YAS",
-    "number": 99,
-    "country": "France",
-    "color": "#0055A4",
+    "id": "treffer",
+    "name": "Treffer",
+    "abbreviation": "TRE",
+    "number": 73,
+    "country": "Germany",
+    "color": "#ffd500",
     "teamHistory": [
       {
         "teamId": "t3",
@@ -367,6 +367,16 @@
         "to": null
       }
     ],
+    "flagId": "germany"
+  },
+  {
+    "id": "yaston",
+    "name": "Yastonpololo",
+    "abbreviation": "YAS",
+    "number": 99,
+    "country": "France",
+    "color": "#0055A4",
+    "teamHistory": null,
     "flagId": "france"
   },
   {
