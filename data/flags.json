@@ -10,6 +10,11 @@
     "image": "assets/img/flags/wales.jpg"
   },
   {
+    "id": "croatia",
+    "country": "Croatia",
+    "image": "assets/img/flags/croatia.png"
+  },
+  {
     "id": "australia",
     "country": "Australia",
     "image": "assets/img/flags/australia.png"
