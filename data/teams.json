@@ -8,38 +8,6 @@
     "logoId": "l7"
   },
   {
-    "id": "t1",
-    "name": "RB Racing",
-    "base": "Faenza",
-    "engine": "Honda RBPT",
-    "color": "#6C98FF",
-    "logoId": "l1"
-  },
-  {
-    "id": "t2",
-    "name": "Ferrari",
-    "base": "Maranello",
-    "engine": "Ferrari",
-    "color": "#ED1131",
-    "logoId": "l2"
-  },
-  {
-    "id": "t3",
-    "name": "Alpine",
-    "base": "Enstone",
-    "engine": "Renault",
-    "color": "#00A1E8",
-    "logoId": "l3"
-  },
-  {
-    "id": "t4",
-    "name": "Haas",
-    "base": "Kannapolis",
-    "engine": "Ferrari",
-    "color": "#9C9FA2",
-    "logoId": "l4"
-  },
-  {
     "id": "t5",
     "name": "Red Bull",
     "base": "Milton Kenyes",
@@ -48,12 +16,12 @@
     "logoId": "l5"
   },
   {
-    "id": "t6",
-    "name": "Aston Martin",
-    "base": "Silverstone",
+    "id": "t10",
+    "name": "McLaren",
+    "base": "Woking",
     "engine": "Mercedes",
-    "color": "#229971",
-    "logoId": "l6"
+    "color": "#F47600",
+    "logoId": "l10"
   },
   {
     "id": "t8",
@@ -64,6 +32,38 @@
     "logoId": "l8"
   },
   {
+    "id": "t6",
+    "name": "Aston Martin",
+    "base": "Silverstone",
+    "engine": "Mercedes",
+    "color": "#229971",
+    "logoId": "l6"
+  },
+  {
+    "id": "t4",
+    "name": "Haas",
+    "base": "Kannapolis",
+    "engine": "Ferrari",
+    "color": "#9C9FA2",
+    "logoId": "l4"
+  },
+  {
+    "id": "t3",
+    "name": "Alpine",
+    "base": "Enstone",
+    "engine": "Renault",
+    "color": "#00A1E8",
+    "logoId": "l3"
+  },
+  {
+    "id": "t2",
+    "name": "Ferrari",
+    "base": "Maranello",
+    "engine": "Ferrari",
+    "color": "#ED1131",
+    "logoId": "l2"
+  },
+  {
     "id": "t9",
     "name": "Kick Sauber",
     "base": "Hinwil",
@@ -71,12 +71,12 @@
     "color": "#01C00E",
     "logoId": "l9"
   },
-  {
-    "id": "t10",
-    "name": "McLaren",
-    "base": "Woking",
-    "engine": "Mercedes",
-    "color": "#F47600",
-    "logoId": "l10"
+    {
+    "id": "t1",
+    "name": "RB Racing",
+    "base": "Faenza",
+    "engine": "Honda RBPT",
+    "color": "#6C98FF",
+    "logoId": "l1"
   }
 ]
