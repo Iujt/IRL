@@ -182,7 +182,7 @@
     "color": "#00D7B6",
     "teamHistory": [
       {
-        "teamId": "t7",
+        "teamId": "t5",
         "from": "2025-01-01",
         "to": null
       }
@@ -198,7 +198,7 @@
     "color": "#00D7B6",
     "teamHistory": [
       {
-        "teamId": "t7",
+        "teamId": "t8",
         "from": "2024-01-01",
         "to": null
       }
@@ -230,7 +230,7 @@
     "color": "#1868DB",
     "teamHistory": [
       {
-        "teamId": "t8",
+        "teamId": "t5",
         "from": "2025-01-01",
         "to": null
       }
@@ -304,7 +304,7 @@
     "color": "#F47600",
     "teamHistory": [
       {
-        "teamId": "t10",
+        "teamId": "t8",
         "from": "2025-01-01",
         "to": null
       }
