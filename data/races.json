@@ -21,7 +21,7 @@
     "name": "Round 2",
     "date": "2026-05-10T19:00:00Z",
     "track": "Circuit de Barcelona-Catalunya",
-    "circuitId": "spain",
+    "circuitId": "barcelona",
     "weather": null,
     "status": "upcoming",
     "sessions": {
