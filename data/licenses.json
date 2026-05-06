@@ -1,16 +1,9 @@
 [
   {
-    "driverId": "langy",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
     "driverId": "oskar",
     "driver": "",
     "lp": 20,
-    "ddwp": 0,
+    "ddwp": 1,
     "awp": 0
   },
   {
@@ -162,6 +155,13 @@
   },
   {
     "driverId": "xeebo",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
+    "awp": 0
+  },
+    {
+    "driverId": "treffer",
     "driver": "",
     "lp": 20,
     "ddwp": 0,
