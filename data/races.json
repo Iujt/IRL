@@ -6,6 +6,7 @@
     "date": "2026-05-03T19:00:00Z",
     "track": "Jeddah Corniche Circuit",
     "circuitId": "jeddah",
+    "specialRules": null,
     "weather": "Dry",
     "status": "completed",
     "sessions": {
@@ -133,6 +134,7 @@
     "date": "2026-05-10T19:00:00Z",
     "track": "Circuit de Barcelona-Catalunya",
     "circuitId": "barcelona",
+    "specialRules": "One Shot Quali",
     "weather": null,
     "status": "upcoming",
     "sessions": {
@@ -149,6 +151,7 @@
     "date": "2026-05-17T19:00:00Z",
     "track": "Red Bull Ring Reverse",
     "circuitId": "austria",
+    "specialRules": "Reverse, 3 dry compounds required",
     "weather": null,
     "status": "upcoming",
     "sessions": {
@@ -165,6 +168,7 @@
     "date": "2026-05-24T19:00:00Z",
     "track": "Miami International Autodrome",
     "circuitId": "miami",
+    "specialRules": null,
     "weather": null,
     "status": "upcoming",
     "sessions": {
@@ -181,6 +185,7 @@
     "date": "2026-05-31T19:00:00Z",
     "track": "Silverstone Circuit",
     "circuitId": "silverstone",
+    "specialRules": null,
     "weather": null,
     "status": "upcoming",
     "sessions": {
@@ -197,6 +202,7 @@
     "date": "2026-06-07T19:00:00Z",
     "track": "Circuit of the Americas",
     "circuitId": "austin",
+    "specialRules": "Top 5 start on softs",
     "weather": null,
     "status": "upcoming",
     "sessions": {
@@ -213,6 +219,7 @@
     "date": "2026-06-14T19:00:00Z",
     "track": "Circuit de Spa-Francorchamps",
     "circuitId": "spa",
+    "specialRules": null,
     "weather": null,
     "status": "upcoming",
     "sessions": {
@@ -229,6 +236,7 @@
     "date": "2026-06-21T19:00:00Z",
     "track": "TBD",
     "circuitId": "",
+    "specialRules": "Mystery Track",
     "weather": null,
     "status": "upcoming",
     "sessions": {
@@ -249,6 +257,7 @@
     "date": "2026-06-28T19:00:00Z",
     "track": "Circuit Zandvoort",
     "circuitId": "zandvoort",
+    "specialRules": "Simulation Damage",
     "weather": null,
     "status": "upcoming",
     "sessions": {
@@ -265,6 +274,7 @@
     "date": "2026-07-05T19:00:00Z",
     "track": "Autodromo Hermanos Rodriguez",
     "circuitId": "mexico",
+    "specialRules": "Reverse Grid",
     "weather": null,
     "status": "upcoming",
     "sessions": {
@@ -281,6 +291,7 @@
     "date": "2026-07-12T19:00:00Z",
     "track": "Marina Bay Street Circuit",
     "circuitId": "singapore",
+    "specialRules": null,
     "weather": null,
     "status": "upcoming",
     "sessions": {
@@ -297,6 +308,7 @@
     "date": "2026-07-19T19:00:00Z",
     "track": "Yas Marina Circuit",
     "circuitId": "uae",
+    "specialRules": null,
     "weather": null,
     "status": "upcoming",
     "sessions": {
