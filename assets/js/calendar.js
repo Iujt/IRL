@@ -27,7 +27,12 @@ function resolveFlag(flagId, flagsById) {
       const track = circuit.circuit || race.track || "TBD";
       const country = circuit.country || "—";
       const flagImg = resolveFlag(circuit.flagId, flagsById) || circuit.flag;
-      const sprint = race.sessions?.sprint ? "Yes" : "No";
+            // New flexible label: custom per-race special rules.
+      // Backward compatible fallback for older race entries.
+      const specialRules =
+        race.specialRules && String(race.specialRules).trim()
+          ? race.specialRules
+          : (race.sessions?.sprint ? "Sprint" : "Feature Only");
       const status = race.status === "completed" ? "Completed" : "Upcoming";
       return `
         <tr>
