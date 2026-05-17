@@ -136,7 +136,7 @@
     "circuitId": "barcelona",
     "specialRules": "One Shot Quali",
     "weather": null,
-    "status": "upcoming",
+    "status": "completed",
     "sessions": {
       "feature": {
         "name": "Feature Race",
