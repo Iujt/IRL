@@ -7,20 +7,6 @@
     "awp": 0
   },
   {
-    "driverId": "carmelo",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
-    "driverId": "pinkbooger",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
     "driverId": "ashley",
     "driver": "",
     "lp": 20,
@@ -52,7 +38,7 @@
     "driverId": "tom",
     "driver": "",
     "lp": 20,
-    "ddwp": 0,
+    "ddwp": 2,
     "awp": 0
   },
   {
@@ -126,20 +112,6 @@
     "awp": 0
   },
   {
-    "driverId": "yaston",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
-    "driverId": "vegestian",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
     "driverId": "kaveh",
     "driver": "",
     "lp": 20,
@@ -156,15 +128,22 @@
   {
     "driverId": "xeebo",
     "driver": "",
-    "lp": 20,
+    "lp": 15,
     "ddwp": 0,
     "awp": 0
   },
-    {
+  {
     "driverId": "treffer",
     "driver": "",
     "lp": 20,
     "ddwp": 0,
     "awp": 0
-  }
+  },
+  {
+    "driverId": "mitch",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
+    "awp": 0
+  },
 ]
