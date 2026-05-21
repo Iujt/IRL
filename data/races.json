@@ -264,11 +264,152 @@
     "circuitId": "austria",
     "specialRules": "Reverse, 3 dry compounds required",
     "weather": null,
-    "status": "upcoming",
+    "status": "completed",
     "sessions": {
       "feature": {
         "name": "Feature Race",
-        "results": []
+        "results": [
+          {
+            "position": 1,
+            "driverId": "oskar",
+            "teamId": "t1",
+            "time": "46:30.942",
+            "status": "Finished",
+            "gridPosition": 1,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 2,
+            "driverId": "ludovic",
+            "teamId": "t1",
+            "time": "+11.323",
+            "status": "Finished",
+            "gridPosition": 2,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 3,
+            "driverId": "moose",
+            "teamId": "t5",
+            "time": "+23.118",
+            "status": "Finished",
+            "gridPosition": 3,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 4,
+            "driverId": "xeebo",
+            "teamId": "t4",
+            "time": "+24.637",
+            "status": "Finished",
+            "gridPosition": 6,
+            "penalties": ["+10 Seconds"],
+            "fastestLap": false
+          },
+          {
+            "position": 5,
+            "driverId": "ashley",
+            "teamId": "t7",
+            "time": "+35.079",
+            "status": "Finished",
+            "gridPosition": 14,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 6,
+            "driverId": "daniel",
+            "teamId": "t5",
+            "time": "+1:07.566",
+            "status": "Finished",
+            "gridPosition": 13,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 7,
+            "driverId": "iujt",
+            "teamId": "t8",
+            "time": "+1 Lap",
+            "status": "Finished",
+            "gridPosition": 10,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 8,
+            "driverId": "mitch",
+            "teamId": "t3",
+            "time": "+1 Lap",
+            "status": "Finished",
+            "gridPosition": 11,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 9,
+            "driverId": "treffer",
+            "teamId": "t3",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 5,
+            "penalties": [],
+            "fastestLap": true
+          },
+          {
+            "position": 10,
+            "driverId": "cody",
+            "teamId": "t10",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 12,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 11,
+            "driverId": "tom",
+            "teamId": "t7",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 7,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 12,
+            "driverId": "standingcart",
+            "teamId": "t4",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 9,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 13,
+            "driverId": "pimentel",
+            "teamId": "t2",
+            "time": "DSQ",
+            "status": "DSQ",
+            "gridPosition": 4,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 14,
+            "driverId": "topuente",
+            "teamId": "t2",
+            "time": "DSQ",
+            "status": "DSQ",
+            "gridPosition": 8,
+            "penalties": ["+5 Seconds"],
+            "fastestLap": false
+          }
+        ]
       }
     }
   },
