@@ -21,6 +21,7 @@ function renderEntry(entry) {
   const message = entry.message || "";
   const image = entry.image || "";
   const imageAlt = entry.imageAlt || `${sender} starboard image`;
+  const stars = entry.stars != null && entry.stars !== "" ? `${entry.stars} ⭐` : "⭐";
 
   return `
     <article class="card starboard-entry">
@@ -29,7 +30,7 @@ function renderEntry(entry) {
           <h3>${escapeHTML(sender)}</h3>
           <p class="race-meta">${formatDate(entry.date)}</p>
         </div>
-        <span class="badge same">Starboard</span>
+        <span class="badge same">${escapeHTML(stars)}</span>
       </div>
       <div class="starboard-entry__message">${escapeHTML(message)}</div>
       ${
