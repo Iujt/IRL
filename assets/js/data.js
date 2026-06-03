@@ -33,6 +33,10 @@ export async function getLicenses() {
   return loadJSON("licenses");
 }
 
+export async function getStarboard() {
+  return loadJSON("starboard");
+}
+
 export async function getFlags() {
   return loadJSON("flags");
 }
