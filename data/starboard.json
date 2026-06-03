@@ -1,16 +1,60 @@
 {
   "entries": [
     {
-      "sender": "League Admin",
-      "message": "The starboard is live. This is where we keep the funniest league moments.",
-      "date": "2026-06-03",
-      "image": ""
+      "sender": "Agentul",
+      "message": "@Jake I don't wan't to play anymore in this league,now you can go faster without me.if you wan't we can meet on streets and shoot each other with guns",
+      "date": "2023-03-19",
+      "image": "",
+      "stars": "A"
     },
     {
-      "sender": "Tom",
-      "message": "That one qualifying lap was so bad it became a team strategy meeting.",
-      "date": "2026-05-28",
-      "image": ""
+      "sender": "Jake",
+      "message": "Upset on behalf of your ancestors looking down upon you hoping to see you extend the bloodline, yet only ever witnessing you wanking into a sock and asking your to your -race engineer- whether AI Ocon up ahead is on slicks or not",
+      "date": "2023-04-28",
+      "image": "",
+      "stars": "A"
+    },
+    {
+      "sender": "Pimentel",
+      "message": "@Standingcart likes transformer females",
+      "date": "2026-03-24",
+      "image": "",
+      "stars": 5
+    },
+    {
+      "sender": "Iujt",
+      "message": "@Tom I didn't know you were involved in the fabric softener business.",
+      "date": "2025-03-25",
+      "image": "",
+      "stars": 8
+    },
+    {
+      "sender": "Iujt",
+      "message": "if you think twiggy is a -decent- driver, what does that make you? Field compost?",
+      "date": "2026-04-22",
+      "image": "",
+      "stars": 5
+    },
+    {
+      "sender": "Carmelo",
+      "message": "Hve a great Grand Prix and hope to find people for this championship. Corrupt.",
+      "date": "2026-03-23",
+      "image": "",
+      "stars": 5
+    },
+    {
+      "sender": "Twiggy",
+      "message": "Skibidi, gyatt!",
+      "date": "2026-05-23",
+      "image": "",
+      "stars": 5
+    },
+    {
+      "sender": "Cody",
+      "message": "@Treffer you guys shouldve bombed this airport properly. We wouldnt have to race here if you didnt screw up!",
+      "date": "2026-05-31",
+      "image": "",
+      "stars": 5
     }
   ]
 }
