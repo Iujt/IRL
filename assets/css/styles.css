@@ -519,6 +519,43 @@ footer {
   gap: 8px;
 }
 
+.starboard-grid {
+  display: grid;
+  gap: 16px;
+}
+
+.starboard-entry {
+  display: grid;
+  gap: 14px;
+}
+
+.starboard-entry__head {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: start;
+}
+
+.starboard-entry__head h3 {
+  margin: 0;
+  font-family: var(--font-title);
+}
+
+.starboard-entry__message {
+  white-space: pre-wrap;
+  color: var(--text);
+  font-size: 1rem;
+}
+
+.starboard-entry__image {
+  width: 100%;
+  max-height: 420px;
+  object-fit: contain;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: #05080d;
+}
+
 .lineup-driver {
   display: grid;
   grid-template-columns: 18px 1fr auto;
