@@ -560,13 +560,7 @@
     "number": "99",
     "country": "United Kingdom",
     "color": "#FFFFFF",
-    "teamHistory": [
-      {
-        "teamId": "t3",
-        "from": "2025-01-01",
-        "to": null
-      }
-    ],
+    "teamHistory": null,
     "flagId": "uk"
   },
   {
