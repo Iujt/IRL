@@ -1,6 +1,22 @@
 // Shared UI helpers used across pages.
 export function setActiveNav() {
   const path = window.location.pathname.split("/").pop() || "index.html";
+  const nav = document.querySelector("#main-nav");
+
+  if (nav && !nav.querySelector('a[href="login.html"]')) {
+    const starboardLink = nav.querySelector('a[aria-label="Starboard"]');
+    const loginLink = document.createElement("a");
+    loginLink.href = "login.html";
+    loginLink.textContent = "Login";
+    loginLink.setAttribute("aria-label", "Login");
+    loginLink.title = "Login";
+    if (starboardLink) {
+      nav.insertBefore(loginLink, starboardLink);
+    } else {
+      nav.appendChild(loginLink);
+    }
+  }
+
   document.querySelectorAll(".nav-links a").forEach((link) => {
     const target = link.getAttribute("href");
     if (target === path) link.classList.add("active");
