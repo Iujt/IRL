@@ -1,0 +1,86 @@
+[
+  {
+    "email": "iujt@irl-league.local",
+    "username": "iujt",
+    "teamName": "Commissioner",
+    "role": "commissioner",
+    "modeRoles": {}
+  },
+  {
+    "email": "mercedes@irl-league.local",
+    "username": "mercedes",
+    "teamName": "Mercedes",
+    "role": "team_leader",
+    "modeRoles": { "coop": "lead_driver" }
+  },
+  {
+    "email": "mclaren@irl-league.local",
+    "username": "mclaren",
+    "teamName": "McLaren",
+    "role": "team_leader",
+    "modeRoles": { "coop": "lead_driver" }
+  },
+  {
+    "email": "redbull@irl-league.local",
+    "username": "redbull",
+    "teamName": "Red Bull",
+    "role": "team_leader",
+    "modeRoles": { "coop": "lead_driver" }
+  },
+  {
+    "email": "rbracing@irl-league.local",
+    "username": "rbracing",
+    "teamName": "RB Racing",
+    "role": "team_leader",
+    "modeRoles": { "coop": "lead_driver" }
+  },
+  {
+    "email": "williams@irl-league.local",
+    "username": "williams",
+    "teamName": "Williams",
+    "role": "team_leader",
+    "modeRoles": { "coop": "lead_driver" }
+  },
+  {
+    "email": "audi@irl-league.local",
+    "username": "audi",
+    "teamName": "Audi",
+    "role": "team_leader",
+    "modeRoles": { "coop": "lead_driver" }
+  },
+  {
+    "email": "cadillac@irl-league.local",
+    "username": "cadillac",
+    "teamName": "Cadillac",
+    "role": "team_leader",
+    "modeRoles": { "coop": "lead_driver" }
+  },
+  {
+    "email": "ferrari@irl-league.local",
+    "username": "ferrari",
+    "teamName": "Ferrari",
+    "role": "team_leader",
+    "modeRoles": { "coop": "lead_driver" }
+  },
+  {
+    "email": "haas@irl-league.local",
+    "username": "haas",
+    "teamName": "Haas",
+    "role": "team_leader",
+    "modeRoles": { "coop": "lead_driver" }
+  },
+  {
+    "email": "alpine@irl-league.local",
+    "username": "alpine",
+    "teamName": "Alpine",
+    "role": "team_leader",
+    "modeRoles": { "coop": "lead_driver" }
+  },
+  {
+    "email": "astonmartin@irl-league.local",
+    "username": "astonmartin",
+    "teamName": "Aston Martin",
+    "role": "team_leader",
+    "modeRoles": { "coop": "lead_driver" }
+  }
+]
