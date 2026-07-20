@@ -1,6 +1,106 @@
 [
   {
     "season": 9,
+    "round": 10,
+    "race": "Mexico",
+    "date": null,
+    "decisions": [
+      {
+        "driver": null,
+        "incident": "309",
+        "penalty": null,
+        "notes": "Racing incident."
+      },
+      {
+        "driver": null,
+        "incident": "310",
+        "penalty": null,
+        "notes": "Racing incident."
+      },
+      {
+        "driver": null,
+        "incident": "311",
+        "penalty": null,
+        "notes": "Racing incident."
+      }
+    ]
+  },
+  {
+    "season": 9,
+    "round": 7,
+    "race": "Belgium",
+    "date": null,
+    "decisions": [
+      {
+        "driver": null,
+        "incident": "307",
+        "penalty": null,
+        "notes": "Racing Incident."
+      },
+      {
+        "driver": null,
+        "incident": "308",
+        "penalty": null,
+        "notes": "Racing Incident."
+      }
+    ]
+  },
+  {
+    "season": 9,
+    "round": 6,
+    "race": "Texas",
+    "date": null,
+    "decisions": [
+      {
+        "driver": null,
+        "incident": "306",
+        "penalty": null,
+        "notes": "Racing incident."
+      }
+    ]
+  },
+  {
+    "season": 9,
+    "round": 5,
+    "race": "United Kingdom",
+    "date": null,
+    "decisions": [
+      {
+        "driver": null,
+        "incident": "304",
+        "penalty": null,
+        "notes": "Incident invalid, footage too late."
+      },
+      {
+        "driver": "Cody",
+        "incident": "305",
+        "penalty": "5 Seconds",
+        "notes": "5 secs added to race time for causing minor damage."
+      }
+    ]
+  },
+  {
+    "season": 9,
+    "round": 4,
+    "race": "Miami",
+    "date": null,
+    "decisions": [
+      {
+        "driver": "Kevin",
+        "incident": "302",
+        "penalty": "2 LP",
+        "notes": "Impeding / Blocking a quali lap."
+      },
+      {
+        "driver": "Ashley",
+        "incident": "303",
+        "penalty": "3 LP",
+        "notes": "Causing a collision resulting a major loss of time of another driver."
+      }
+    ]
+  },
+  {
+    "season": 9,
     "round": 2,
     "race": "Austria Reverse",
     "date": "2026-05-17",
