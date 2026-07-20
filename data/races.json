@@ -998,7 +998,7 @@
     "circuitId": "",
     "specialRules": "Mystery Track",
     "weather": null,
-    "status": "cancelled",
+    "status": "completed",
     "sessions": {
       "sprint": {
         "name": "Sprint",
