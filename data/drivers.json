@@ -878,5 +878,25 @@
       }
     ],
     "flagId": "mexico"
+  },
+  {
+    "id": "nicofrey",
+    "name": "Nicofrey",
+    "abbreviation": "NIC",
+    "number": 56,
+    "country": "Spain",
+    "color": "#AA151B",
+    "teamHistory": null
+    "flagId": "spain"
+  },
+  {
+    "id": "kdyer",
+    "name": "KDyer",
+    "abbreviation": "Kdy",
+    "number": 46,
+    "country": "Spain",
+    "color": "#AA151B",
+    "teamHistory": null
+    "flagId": "spain"
   }
 ]
