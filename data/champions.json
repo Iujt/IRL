@@ -119,6 +119,21 @@
         "logoId": "l7",
         "driverIds": ["twiggy","moose"]
       }
+    },
+    {
+      "seasonId": "s9",
+      "label": "Season 9 (2026)",
+      "year": 2026,
+      "wdc": {
+        "driverId": "twiggy",
+        "name": "Twiggy",
+        "points": 163
+      },
+      "wcc": {
+        "name": "Williams",
+        "logoId": "l8",
+        "driverIds": ["twiggy","iujt"]
+      }
     }
   ]
 }
