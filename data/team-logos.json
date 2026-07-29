@@ -37,16 +37,21 @@
   {
     "id": "l8",
     "team": "Williams",
-    "logo": "assets/img/teams/williams.png"
+    "logo": "assets/img/teams/williams2026.png"
   },
   {
     "id": "l9",
-    "team": "Kick Sauber",
-    "logo": "assets/img/teams/kick.png"
+    "team": "Audi Sport",
+    "logo": "assets/img/teams/audi.png"
   },
   {
     "id": "l10",
     "team": "McLaren",
     "logo": "assets/img/teams/mclaren.png"
+  },
+  {
+    "id": "l11",
+    "team": "Cadillac",
+    "logo": "assets/img/teams/cadillac.png"
   }
 ]
