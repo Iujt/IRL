@@ -188,7 +188,7 @@
     "date": "2026-10-25T19:00:00Z",
     "track": "Red Bull Ring",
     "circuitId": "austria",
-    "specialRules": "reverse",
+    "specialRules": "Reverse Track",
     "weather": null,
     "status": "upcoming",
     "sessions": {
