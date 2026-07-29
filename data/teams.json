@@ -1,59 +1,11 @@
 [
   {
-    "id": "t7",
-    "name": "Mercedes",
-    "base": "Brackley",
-    "engine": "Mercedes",
-    "color": "#00D7B6",
-    "logoId": "l7"
-  },
-  {
-    "id": "t5",
-    "name": "Red Bull",
-    "base": "Milton Kenyes",
-    "engine": "Ford RBPT",
-    "color": "#4781D7",
-    "logoId": "l5"
-  },
-  {
-    "id": "t10",
-    "name": "McLaren",
-    "base": "Woking",
-    "engine": "Mercedes",
-    "color": "#F47600",
-    "logoId": "l10"
-  },
-  {
     "id": "t8",
     "name": "Williams",
     "base": "Grove",
     "engine": "Mercedes",
     "color": "#1868DB",
     "logoId": "l8"
-  },
-  {
-    "id": "t6",
-    "name": "Aston Martin",
-    "base": "Silverstone",
-    "engine": "Honda",
-    "color": "#229971",
-    "logoId": "l6"
-  },
-  {
-    "id": "t4",
-    "name": "Haas",
-    "base": "Kannapolis",
-    "engine": "Ferrari",
-    "color": "#9C9FA2",
-    "logoId": "l4"
-  },
-  {
-    "id": "t3",
-    "name": "Alpine",
-    "base": "Enstone",
-    "engine": "Mercedes",
-    "color": "#00A1E8",
-    "logoId": "l3"
   },
   {
     "id": "t2",
@@ -64,6 +16,30 @@
     "logoId": "l2"
   },
   {
+    "id": "t1",
+    "name": "RB Racing",
+    "base": "Faenza",
+    "engine": "Ford RBPT",
+    "color": "#6C98FF",
+    "logoId": "l1"
+  },
+  {
+    "id": "t3",
+    "name": "Alpine",
+    "base": "Enstone",
+    "engine": "Mercedes",
+    "color": "#00A1E8",
+    "logoId": "l3"
+  },
+  {
+    "id": "t7",
+    "name": "Mercedes",
+    "base": "Brackley",
+    "engine": "Mercedes",
+    "color": "#00D7B6",
+    "logoId": "l7"
+  },
+  {
     "id": "t9",
     "name": "Audi Sport",
     "base": "Hinwil",
@@ -72,12 +48,36 @@
     "logoId": "l9"
   },
   {
-    "id": "t1",
-    "name": "RB Racing",
-    "base": "Faenza",
+    "id": "t5",
+    "name": "Red Bull",
+    "base": "Milton Kenyes",
     "engine": "Ford RBPT",
-    "color": "#6C98FF",
-    "logoId": "l1"
+    "color": "#4781D7",
+    "logoId": "l5"
+  },
+  {
+    "id": "t4",
+    "name": "Haas",
+    "base": "Kannapolis",
+    "engine": "Ferrari",
+    "color": "#9C9FA2",
+    "logoId": "l4"
+  },
+  {
+    "id": "t6",
+    "name": "Aston Martin",
+    "base": "Silverstone",
+    "engine": "Honda",
+    "color": "#229971",
+    "logoId": "l6"
+  },
+  {
+    "id": "t10",
+    "name": "McLaren",
+    "base": "Woking",
+    "engine": "Mercedes",
+    "color": "#F47600",
+    "logoId": "l10"
   },
   {
     "id": "t11",
