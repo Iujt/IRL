@@ -18,6 +18,12 @@
     "flagId": "bahrain"
   },
   {
+    "id": "madrid",
+    "country": "Spain",
+    "circuit": "Madring",
+    "flagId": "spain"
+  },
+  {
     "id": "jeddah",
     "country": "Saudi Arabia",
     "circuit": "Jeddah Corniche Circuit",
