@@ -281,7 +281,7 @@
     "id": "iujt",
     "name": "Iujt",
     "abbreviation": "LOU",
-    "number": 12,
+    "number": 83,
     "country": "Colombia",
     "color": "#F47600",
     "teamHistory": [
@@ -693,7 +693,7 @@
     "id": "jeo",
     "name": "JEO",
     "abbreviation": "JEO",
-    "number": null,
+    "number": "15",
     "country": "The Philippines",
     "color": "#FFFFFF",
     "teamHistory": [
@@ -885,7 +885,7 @@
     "id": "ahmed",
     "name": "Ahmed Alaa",
     "abbreviation": "AHM",
-    "number": 88,
+    "number": 12,
     "country": "Egypt",
     "color": "##a88100",
     "teamHistory": [
