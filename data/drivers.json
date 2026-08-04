@@ -20,6 +20,22 @@
     "flagId": "sweden"
   },
   {
+    "id": "ahmed",
+    "name": "Ahmed Alaa",
+    "abbreviation": "AHM",
+    "number": 12,
+    "country": "Egypt",
+    "color": "#a88100",
+    "teamHistory": [
+      {
+        "teamId": "t4",
+        "from": "2025-01-01",
+        "to": null
+      }
+    ],
+    "flagId": "egypt"
+  }
+  {
     "id": "oskar",
     "name": "Oskar Berggren",
     "abbreviation": "BER",
@@ -880,21 +896,5 @@
     "color": "#AA151B",
     "teamHistory": null,
     "flagId": "spain"
-  },
-  {
-    "id": "ahmed",
-    "name": "Ahmed Alaa",
-    "abbreviation": "AHM",
-    "number": 12,
-    "country": "Egypt",
-    "color": "##a88100",
-    "teamHistory": [
-      {
-        "teamId": "t4",
-        "from": "2025-01-01",
-        "to": null
-      }
-    ],
-    "flagId": "egypt"
   }
 ]
