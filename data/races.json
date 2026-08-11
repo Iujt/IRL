@@ -23,7 +23,7 @@
             "penalties": [],
             "fastestLap": false,
             "isReserve": true,
-            "pointsEligible": false
+            "pointsEligible": true
           },
           {
             "position": 2,
