@@ -802,7 +802,7 @@
     "flagId": "mexico"
   },
   {
-    "id": "Karl",
+    "id": "Skarl",
     "name": "Karl",
     "abbreviation": "KAR",
     "number": null,
@@ -896,5 +896,15 @@
     "color": "#AA151B",
     "teamHistory": null,
     "flagId": "spain"
+  },
+  {
+    "id": "karl",
+    "name": "Karl",
+    "abbreviation": "KRL",
+    "number": 88,
+    "country": "United Kingdom",
+    "color": "#00D7B6",
+    "teamHistory": null,
+    "flagId": "uk"
   }
 ]
