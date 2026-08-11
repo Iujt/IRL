@@ -1,13 +1,6 @@
 [
   {
-    "driverId": "oskar",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 1,
-    "awp": 0
-  },
-  {
-    "driverId": "ashley",
+    "driverId": "cody",
     "driver": "",
     "lp": 20,
     "ddwp": 0,
@@ -18,10 +11,45 @@
     "driver": "",
     "lp": 20,
     "ddwp": 0,
+    "awp": 1
+  },
+  {
+    "driverId": "pimentel",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
     "awp": 0
   },
   {
-    "driverId": "cody",
+    "driverId": "topuente",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
+    "awp": 0
+  },
+  {
+    "driverId": "xeebo",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
+    "awp": 1
+  },
+  {
+    "driverId": "kevin",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
+    "awp": 0
+  },
+  {
+    "driverId": "oskar",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
+    "awp": 0
+  },
+  {
+    "driverId": "tom",
     "driver": "",
     "lp": 20,
     "ddwp": 0,
@@ -35,10 +63,52 @@
     "awp": 0
   },
   {
-    "driverId": "tom",
+    "driverId": "iujt",
     "driver": "",
     "lp": 20,
-    "ddwp": 2,
+    "ddwp": 0,
+    "awp": 0
+  },
+  {
+    "driverId": "daniel",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
+    "awp": 0
+  },
+  {
+    "driverId": "treffer",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
+    "awp": 0
+  },
+  {
+    "driverId": "ahmed",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
+    "awp": 0
+  },
+  {
+    "driverId": "jeo",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
+    "awp": 0
+  },
+  {
+    "driverId": "ashley",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
+    "awp": 0
+  },
+  {
+    "driverId": "standingcart",
+    "driver": "",
+    "lp": 20,
+    "ddwp": 0,
     "awp": 0
   },
   {
@@ -56,91 +126,7 @@
     "awp": 0
   },
   {
-    "driverId": "moose",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
-    "driverId": "twiggy",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
-    "driverId": "pimentel",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
-    "driverId": "daniel",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
-    "driverId": "standingcart",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
-    "driverId": "airbus",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
-    "driverId": "topuente",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
-    "driverId": "iujt",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
-    "driverId": "kaveh",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
-    "driverId": "taou",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
-    "driverId": "xeebo",
-    "driver": "",
-    "lp": 15,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
-    "driverId": "treffer",
-    "driver": "",
-    "lp": 20,
-    "ddwp": 0,
-    "awp": 0
-  },
-  {
-    "driverId": "mitch",
+    "driverId": "karl",
     "driver": "",
     "lp": 20,
     "ddwp": 0,
