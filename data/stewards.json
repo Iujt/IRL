@@ -1,5 +1,31 @@
 [
   {
+    "season": 10,
+    "round": 1,
+    "race": "Japan",
+    "date": 2026-08-09,
+    "decisions": [
+      {
+        "driver": "Standingcart",
+        "incident": "312",
+        "penalty": "3 second time penalty.",
+        "notes": "StandingCart causes a small loss of time for Gonzo."
+      },
+      {
+        "driver": "Czajnik",
+        "incident": "Other Penalties",
+        "penalty": "1 AWP",
+        "notes": "Failing to confirm or deny attendance."
+      },
+      {
+        "driver": "Xeebo",
+        "incident": "Other Penalties",
+        "penalty": "1 AWP",
+        "notes": "Failing to confirm or deny attendance."
+      }
+    ]
+  },
+  {
     "season": 9,
     "round": 10,
     "race": "Mexico",
