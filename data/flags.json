@@ -5,6 +5,11 @@
     "image": "assets/img/flags/slovakia.jpg"
   },
   {
+    "id": "iceland",
+    "country": "Iceland",
+    "image": "assets/img/flags/iceland.png"
+  },
+  {
     "id": "egypt",
     "country": "Egypt",
     "image": "assets/img/flags/egypt.png"
