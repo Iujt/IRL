@@ -1,6 +1,32 @@
 [
   {
     "season": 10,
+    "round": 2,
+    "race": "China",
+    "date": "2026-08-16",
+    "decisions": [
+      {
+        "driver": "Oskar",
+        "incident": "313",
+        "penalty": "1 DDWP awarded.",
+        "notes": "Reckless and dangerous cocking about, could've resulted in Twiggy's DNF."
+      },
+      {
+        "driver": "Ludovic",
+        "incident": "314",
+        "penalty": "3 second time penalty.",
+        "notes": "Causing an incident resulting in a minor loss of time of another driver."
+      },
+      {
+        "driver": "Oskar",
+        "incident": "Other Penalties",
+        "penalty": "1 LP deduction",
+        "notes": "Failing to provide evidence footage."
+      }
+    ]
+  },
+  {
+    "season": 10,
     "round": 1,
     "race": "Japan",
     "date": "2026-08-09",
