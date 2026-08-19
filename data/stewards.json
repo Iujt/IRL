@@ -20,8 +20,38 @@
       {
         "driver": "Oskar",
         "incident": "Other Penalties",
-        "penalty": "1 LP deduction",
+        "penalty": "2 LP deduction",
         "notes": "Failing to provide evidence footage."
+      },
+      {
+        "driver": "Standingcart",
+        "incident": "Other Penalties",
+        "penalty": "1 AWP awarded",
+        "notes": "Failing to confirm or deny attendance withing the time limit."
+      },
+      {
+        "driver": "Cody",
+        "incident": "Other Penalties",
+        "penalty": "1 AWP awarded",
+        "notes": "Failing to confirm or deny attendance withing the time limit."
+      },
+      {
+        "driver": "Daniel",
+        "incident": "Other Penalties",
+        "penalty": "2 LP deduction",
+        "notes": "Readying up before required 2 minute wait time."
+      },
+      {
+        "driver": "Daniel",
+        "incident": "Other Penalties",
+        "penalty": "5 second time penalty for next race",
+        "notes": "Crossing the 2 LP threshold."
+      },
+      {
+        "driver": "Oskar",
+        "incident": "Other Penalties",
+        "penalty": "5 second time penalty for next race",
+        "notes": "Crossing the 2 LP threshold."
       }
     ]
   },
