@@ -59,7 +59,7 @@
     "driverId": "ludovic",
     "driver": "",
     "lp": 20,
-    "ddwp": 0,
+    "ddwp": 1,
     "awp": 0
   },
   {
@@ -73,7 +73,7 @@
     "driverId": "daniel",
     "driver": "",
     "lp": 18,
-    "ddwp": 0,
+    "ddwp": 1,
     "awp": 0
   },
   {
@@ -100,8 +100,8 @@
   {
     "driverId": "standingcart",
     "driver": "",
-    "lp": 20,
-    "ddwp": 0,
+    "lp": 15,
+    "ddwp": 1,
     "awp": 1
   },
   {
