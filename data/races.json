@@ -343,12 +343,175 @@
     "track": "Baku Street Circuit",
     "circuitId": "azerbaijan",
     "specialRules": null,
-    "weather": null,
-    "status": "upcoming",
+    "weather": "Dry",
+    "status": "completed",
     "sessions": {
       "feature": {
         "name": "Feature Race",
-        "results": []
+        "results": [
+          {
+            "position": 1,
+            "driverId": "djfuko",
+            "teamId": "t6",
+            "time": "50:03.617",
+            "status": "Finished",
+            "gridPosition": 1,
+            "penalties": [],
+            "fastestLap": true
+          },
+          {
+            "position": 2,
+            "driverId": "oskar",
+            "teamId": "t7",
+            "time": "+22.538",
+            "status": "Finished",
+            "gridPosition": 4,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 3,
+            "driverId": "ludovic",
+            "teamId": "t9",
+            "time": "+34.060",
+            "status": "Finished",
+            "gridPosition": 2,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 4,
+            "driverId": "jordan",
+            "teamId": "t11",
+            "time": "+37.382",
+            "status": "Finished",
+            "gridPosition": 12,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 5,
+            "driverId": "pimentel",
+            "teamId": "t2",
+            "time": "+39.890",
+            "status": "Finished",
+            "gridPosition": 9,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 6,
+            "driverId": "hommi",
+            "teamId": "t3",
+            "time": "+37.319",
+            "status": "Finished",
+            "gridPosition": 5,
+            "penalties": ["+5 Seconds"],
+            "fastestLap": false
+          },
+          {
+            "position": 7,
+            "driverId": "kevin",
+            "teamId": "t1",
+            "time": "+57.547",
+            "status": "Finished",
+            "gridPosition": 14,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 8,
+            "driverId": "star",
+            "teamId": "t4",
+            "time": "+59.014",
+            "status": "Finished",
+            "gridPosition": 11,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 9,
+            "driverId": "daniel",
+            "teamId": "t5",
+            "time": "+1:14.633",
+            "status": "Finished",
+            "gridPosition": 15,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 10,
+            "driverId": "ashley",
+            "teamId": "t10",
+            "time": "+1:40.888",
+            "status": "Finished",
+            "gridPosition": 7,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 11,
+            "driverId": "gonzo",
+            "teamId": "t11",
+            "time": "+1 Lap",
+            "status": "Finished",
+            "gridPosition": 16,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 12,
+            "driverId": "iujt",
+            "teamId": "t9",
+            "time": "+3 Laps",
+            "status": "Finished",
+            "gridPosition": 8,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 13,
+            "driverId": "standingcart",
+            "teamId": "t10",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 13,
+            "penalties": ["+15 Seconds"],
+            "fastestLap": false
+          },
+          {
+            "position": 14,
+            "driverId": "lightning",
+            "teamId": "t3",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 10,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 15,
+            "driverId": "twiggy",
+            "teamId": "t2",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 3,
+            "penalties": [],
+            "fastestLap": false,
+            "isReserve": true,
+            "pointsEligible": false
+          },
+          {
+            "position": 15,
+            "driverId": "tom",
+            "teamId": "t7",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 6,
+            "penalties": [],
+            "fastestLap": false
+          }
+        ]
       }
     }
   },
