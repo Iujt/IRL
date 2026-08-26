@@ -1,6 +1,56 @@
 [
   {
     "season": 10,
+    "round": 3,
+    "race": "Azerbaijan",
+    "date": "2026-08-23",
+    "decisions": [
+      {
+        "driver": "Daniel",
+        "incident": "315",
+        "penalty": "1 DDWP awarded.",
+        "notes": "Dangerous driving."
+      },
+      {
+        "driver": "StandingCart",
+        "incident": "316",
+        "penalty": "5 second time penalty.",
+        "notes": "Causing an incident resulting in a medium damage."
+      },
+      {
+        "driver": "Hommi",
+        "incident": "317",
+        "penalty": "5 second time penalty.",
+        "notes": "Causing an incident resulting in a medium damage."
+      },
+      {
+        "driver": "Ludovic",
+        "incident": "318",
+        "penalty": "1 DDWP awarded.",
+        "notes": "DDWP given for unreasonable divebomb."
+      },
+      {
+        "driver": "Ludovic",
+        "incident": "319",
+        "penalty": null,
+        "notes": "Incident null due to being the same incident as 318."
+      },
+      {
+        "driver": "StandingCart",
+        "incident": "320",
+        "penalty": "5 LP deduction, 10 Second time penalty and 1 DDWP.",
+        "notes": "Dangerous driving, resulting in major loss of time and major damage of another driver."
+      },
+      {
+        "driver": "Daniel",
+        "incident": "Other Penalties",
+        "penalty": "Qualifying ban & 10 second time penalty for next race finished",
+        "notes": "Crossing the 5 LP threshold."
+      }
+    ]
+  },
+  {
+    "season": 10,
     "round": 2,
     "race": "China",
     "date": "2026-08-16",
