@@ -94,13 +94,7 @@
     "number": 88,
     "country": "Poland",
     "color": "#9C9FA2",
-    "teamHistory": [
-      {
-        "teamId": "t8",
-        "from": "2025-01-01",
-        "to": null
-      }
-    ],
+    "teamHistory": null,
     "flagId": "poland"
   },
   {
@@ -110,13 +104,7 @@
     "number": 2,
     "country": "Slovakia",
     "color": "#9C9FA2",
-    "teamHistory": [
-      {
-        "teamId": "t8",
-        "from": "2024-01-01",
-        "to": null
-      }
-    ],
+    "teamHistory": null,
     "flagId": "slovakia"
   },
   {
@@ -260,7 +248,7 @@
     "color": "#01C00E",
     "teamHistory": [
       {
-        "teamId": "t6",
+        "teamId": "t1",
         "from": "2024-01-01",
         "to": null
       }
@@ -334,7 +322,7 @@
     "color": "#F47600",
     "teamHistory": [
       {
-        "teamId": "t9",
+        "teamId": "t5",
         "from": "2025-01-01",
         "to": null
       }
@@ -746,7 +734,7 @@
     "color": "#FFFFFF",
     "teamHistory": [
       {
-        "teamId": "t4",
+        "teamId": "t9",
         "from": "2025-01-01",
         "to": null
       }
