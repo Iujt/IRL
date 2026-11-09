@@ -43,7 +43,9 @@
             "status": "Finished",
             "gridPosition": 4,
             "penalties": [],
-            "fastestLap": false
+            "fastestLap": false,
+            "isReserve": true,
+            "pointsEligible": false
           },
           {
             "position": 4,
@@ -98,7 +100,7 @@
           {
             "position": 9,
             "driverId": "iujt",
-            "teamId": "t9",
+            "teamId": "t5",
             "time": "+44.399",
             "status": "Finished",
             "gridPosition": 10,
@@ -118,7 +120,7 @@
           {
             "position": 11,
             "driverId": "jeo",
-            "teamId": "t4",
+            "teamId": "t9",
             "time": "DNF",
             "status": "DNF",
             "gridPosition": 2,
@@ -230,7 +232,7 @@
           {
             "position": 6,
             "driverId": "iujt",
-            "teamId": "t9",
+            "teamId": "t5",
             "time": "+45.658",
             "status": "Finished",
             "gridPosition": 10,
@@ -240,7 +242,7 @@
           {
             "position": 7,
             "driverId": "xeebo",
-            "teamId": "t6",
+            "teamId": "t1",
             "time": "+46.292",
             "status": "Finished",
             "gridPosition": 6,
@@ -462,7 +464,7 @@
           {
             "position": 12,
             "driverId": "iujt",
-            "teamId": "t9",
+            "teamId": "t5",
             "time": "+3 Laps",
             "status": "Finished",
             "gridPosition": 8,
@@ -636,7 +638,7 @@
           {
             "position": 11,
             "driverId": "iujt",
-            "teamId": "t9",
+            "teamId": "t5",
             "time": "+1:27.620",
             "status": "Finished",
             "gridPosition": 12,
@@ -836,7 +838,7 @@
           {
             "position": 14,
             "driverId": "iujt",
-            "teamId": "t9",
+            "teamId": "t5",
             "time": "DNF",
             "status": "DNF",
             "gridPosition": 15,
@@ -1165,7 +1167,7 @@
           {
             "position": 5,
             "driverId": "xeebo",
-            "teamId": "t6",
+            "teamId": "t1",
             "time": "+17.010",
             "status": "Finished",
             "gridPosition": 5,
@@ -1225,7 +1227,7 @@
           {
             "position": 11,
             "driverId": "iujt",
-            "teamId": "t9",
+            "teamId": "t5",
             "time": "DNF",
             "status": "DNF",
             "gridPosition": 10,
@@ -1353,7 +1355,7 @@
           {
             "position": 9,
             "driverId": "iujt",
-            "teamId": "t9",
+            "teamId": "t5",
             "time": "+1 Lap",
             "status": "Finished",
             "gridPosition": 8,
@@ -1387,11 +1389,253 @@
     "sessions": {
       "sprint": {
         "name": "Sprint Race",
-        "results": []
+        "results": [
+          {
+            "position": 1,
+            "driverId": "hommi",
+            "teamId": "t3",
+            "time": "7:42.840",
+            "status": "Finished",
+            "gridPosition": 1,
+            "penalties": [],
+            "fastestLap": true
+          },
+          {
+            "position": 2,
+            "driverId": "djfuko",
+            "teamId": "t6",
+            "time": "+6.436",
+            "status": "Finished",
+            "gridPosition": 3,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 3,
+            "driverId": "oskar",
+            "teamId": "t7",
+            "time": "+7.323",
+            "status": "Finished",
+            "gridPosition": 2,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 4,
+            "driverId": "xeebo",
+            "teamId": "t1",
+            "time": "+9.968",
+            "status": "Finished",
+            "gridPosition": 5,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 5,
+            "driverId": "topuente",
+            "teamId": "t2",
+            "time": "+12.895",
+            "status": "Finished",
+            "gridPosition": 4,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 6,
+            "driverId": "lightning",
+            "teamId": "t3",
+            "time": "+15.980",
+            "status": "Finished",
+            "gridPosition": 12,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 7,
+            "driverId": "ashley",
+            "teamId": "t10",
+            "time": "+24.896",
+            "status": "Finished",
+            "gridPosition": 11,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 8,
+            "driverId": "tom",
+            "teamId": "t10",
+            "time": "+40.335",
+            "status": "Finished",
+            "gridPosition": 10,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 9,
+            "driverId": "iujt",
+            "teamId": "t5",
+            "time": "+56.221",
+            "status": "Finished",
+            "gridPosition": 8,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 10,
+            "driverId": "gonzo",
+            "teamId": "t11",
+            "time": "+1:10.057",
+            "status": "Finished",
+            "gridPosition": 9,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 11,
+            "driverId": "jordan",
+            "teamId": "t11",
+            "time": "+1:10.140",
+            "status": "Finished",
+            "gridPosition": 6,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 10,
+            "driverId": "daniel",
+            "teamId": "t5",
+            "time": "+1:12.738",
+            "status": "Finished",
+            "gridPosition": 7,
+            "penalties": [],
+            "fastestLap": false
+          }
+        ]
       },
       "feature": {
         "name": "Feature Race",
-        "results": []
+        "results": [
+          {
+            "position": 1,
+            "driverId": "hommi",
+            "teamId": "t3",
+            "time": "49:53.328",
+            "status": "Finished",
+            "gridPosition": 1,
+            "penalties": [],
+            "fastestLap": true
+          },
+          {
+            "position": 2,
+            "driverId": "lightning",
+            "teamId": "t3",
+            "time": "+20.935",
+            "status": "Finished",
+            "gridPosition": 6,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 3,
+            "driverId": "xeebo",
+            "teamId": "t1",
+            "time": "+22.879",
+            "status": "Finished",
+            "gridPosition": 4,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 4,
+            "driverId": "oskar",
+            "teamId": "t7",
+            "time": "+32.530",
+            "status": "Finished",
+            "gridPosition": 3,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 5,
+            "driverId": "topuente",
+            "teamId": "t2",
+            "time": "+39.982",
+            "status": "Finished",
+            "gridPosition": 5,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 6,
+            "driverId": "jordan",
+            "teamId": "t11",
+            "time": "+44.859",
+            "status": "Finished",
+            "gridPosition": 11,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 7,
+            "driverId": "djfuko",
+            "teamId": "t6",
+            "time": "+49.046",
+            "status": "Finished",
+            "gridPosition": 2,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 8,
+            "driverId": "ashley",
+            "teamId": "t10",
+            "time": "+1:28.330",
+            "status": "Finished",
+            "gridPosition": 7,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 9,
+            "driverId": "daniel",
+            "teamId": "t5",
+            "time": "+1 Lap",
+            "status": "Finished",
+            "gridPosition": 12,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 10,
+            "driverId": "gonzo",
+            "teamId": "t11",
+            "time": "+2 Laps",
+            "status": "Finished",
+            "gridPosition": 10,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 11,
+            "driverId": "tom",
+            "teamId": "t7",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 8,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 12,
+            "driverId": "iujt",
+            "teamId": "t5",
+            "time": "DNF",
+            "status": "DNF",
+            "gridPosition": 9,
+            "penalties": [],
+            "fastestLap": false
+          }
+        ]
       }
     }
   },
@@ -1446,7 +1690,58 @@
     "sessions": {
       "feature": {
         "name": "Feature Race",
-        "results": []
+        "results": [
+          {
+            "position": 1,
+            "driverId": "tom",
+            "teamId": "t7",
+            "time": "28:39.134",
+            "status": "Finished",
+            "gridPosition": 1,
+            "penalties": ["LETS GOOOO"],
+            "fastestLap": true
+          },
+          {
+            "position": 2,
+            "driverId": "oskar",
+            "teamId": "t7",
+            "time": "+20.316",
+            "status": "Finished",
+            "gridPosition": 5,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 3,
+            "driverId": "jordan",
+            "teamId": "t11",
+            "time": "+40.621",
+            "status": "Finished",
+            "gridPosition": 4,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 4,
+            "driverId": "standingcart",
+            "teamId": "t10",
+            "time": "+1:04.592",
+            "status": "Finished",
+            "gridPosition": 3,
+            "penalties": [],
+            "fastestLap": false
+          },
+          {
+            "position": 5,
+            "driverId": "iujt",
+            "teamId": "t5",
+            "time": "DSQ",
+            "status": "DSQ",
+            "gridPosition": 2,
+            "penalties": [],
+            "fastestLap": false
+          }
+        ]
       }
     }
   },
