@@ -366,13 +366,7 @@
     "number": 73,
     "country": "Germany",
     "color": "#ffd500",
-    "teamHistory": [
-      {
-        "teamId": "t5",
-        "from": "2025-01-01",
-        "to": null
-      }
-    ],
+    "teamHistory": null,
     "flagId": "germany"
   },
   {
